@@ -189,7 +189,8 @@ deprivation_panel2 = function(graph_data,xvar,yvar,xlab,ylab,filename,caption){
 	sub = textGrob(caption, x = 0, hjust = -0.1, vjust=0.1,	gp = gpar(fontface = "italic", fontsize = 14)),
 	heights=c(0.95,0.05))
 	
-	ggsave(filename=paste("output/",filename,".png",sep=""),plot=combined_panel,width=37,height=50,units="cm",dpi=300)
+#	ggsave(filename=paste("output/",filename,".png",sep=""),plot=combined_panel,width=37,height=50,units="cm",dpi=300)
+	ggsave(filename=paste("output/",filename,".tiff",sep=""),plot=combined_panel,width=37,height=50,units="cm",dpi=300)
 }		
 
 
@@ -211,7 +212,8 @@ deprivation_panel_appendix = function(graph_data,xvar,yvar,xlab,ylab,filename,ca
 			sub=textGrob(caption, x = 0, hjust = -0.1, vjust=0.1,	gp = gpar(fontface = "italic", fontsize = 14)),
 			ncol=1,
 			heights=c(0.99,0.01))
-	ggsave(filename=paste("output/",filename,".png",sep=""),plot=combined_panel,width=67,height=50,units="cm",dpi=300)
+#	ggsave(filename=paste("output/",filename,".png",sep=""),plot=combined_panel,width=67,height=50,units="cm",dpi=300)
+	ggsave(filename=paste("output/",filename,".tiff",sep=""),plot=combined_panel,width=67,height=50,units="cm",dpi=300)
 }		
 
 deprivation_panel = function(graph_data,xvar,yvar,xlab,ylab,filename,caption){
@@ -259,8 +261,9 @@ deprivation_panel = function(graph_data,xvar,yvar,xlab,ylab,filename,caption){
 	sub = textGrob(caption, x = 0, hjust = -0.1, vjust=0.1,	gp = gpar(fontface = "italic", fontsize = 14)),
 	nrow=2,heights=c(0.95,0.05))
 	
-	ggsave(filename=paste("output/",filename,".png",sep=""),plot=combined_panel,width=37,height=35,units="cm",dpi=300)
-}		
+#	ggsave(filename=paste("output/",filename,".png",sep=""),plot=combined_panel,width=37,height=35,units="cm",dpi=300)
+	ggsave(filename=paste("output/",filename,".tiff",sep=""),plot=combined_panel,width=37,height=35,units="cm",dpi=300)
+	}		
 
 ###############################################################################
 # Survival plots 
@@ -295,7 +298,8 @@ survival_panel = function(graph_data,xvar,yvar,xlab,ylab,filename,caption){
 			sub = textGrob(caption, x = 0, hjust = -0.1, vjust=0.1,	gp = gpar(fontface = "italic", fontsize = 14)),
 			widths = unit.c(unit(1, "npc") - sum(legend$width), sum(legend$width)))
 	
-	ggsave(filename=paste("output/",filename,".png",sep=""),plot=combined_panel,width=37,height=14,units="cm",dpi=300)
+#	ggsave(filename=paste("output/",filename,".png",sep=""),plot=combined_panel,width=37,height=14,units="cm",dpi=300)
+	ggsave(filename=paste("output/",filename,".tiff",sep=""),plot=combined_panel,width=37,height=14,units="cm",dpi=300)
 }		
 survival_data = mortality_rates %>%
 		#filter(AGE>20 & AGE<121) %>%
