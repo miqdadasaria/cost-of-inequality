@@ -1,0 +1,1632 @@
+Currency Code,Currency Description,Total,EI,EI_XS,NEI_L,NEI_L_XS,NEI_S,DC
+AA02A,Intracranial Procedures for Trauma with Diagnosis of Intracranial Injury with CC,7217,7547,157,7434,320,3775,3389
+AA02B,Intracranial Procedures for Trauma with Diagnosis of Intracranial Injury without CC,5805,5650,,5856,274,3633,
+AA03A,Intracranial Procedures for Trauma with Diagnosis of Head Injury or Skull Fracture with CC,6235,8001,331,6146,307,3502,
+AA03B,Intracranial Procedures for Trauma with Diagnosis of Head Injury or Skull Fracture without CC,5505,5434,362,5282,281,5468,1438
+AA04A,Major Intracranial Procedures Except Trauma with Non-Transient Stroke or Cerebrovascular Accident Nervous System Infections or Encephalopathy with CC,12652,11269,266,14118,293,3550,
+AA04B,Major Intracranial Procedures Except Trauma with Non-Transient Stroke or Cerebrovascular Accident Nervous System Infections or Encephalopathy without CC,9817,4875,,11226,316,3372,1483
+AA05A,Major Intracranial Procedures Except Trauma with Haemorrhagic Cerebrovascular Disorders with CC,10116,7098,209,12586,319,6746,
+AA05B,Major Intracranial Procedures Except Trauma with Haemorrhagic Cerebrovascular Disorders without CC,5477,4463,315,7115,363,9112,
+AA06A,Major Intracranial Procedures Except Trauma with Brain Tumours or Cerebral Cysts with CC,9301,8297,314,10842,361,5568,3498
+AA06B,Major Intracranial Procedures Except Trauma with Brain Tumours or Cerebral Cysts without CC,6195,5536,317,9094,334,4208,1511
+AA07A,Major Intracranial Procedures Except Trauma with Cerebral Degenerations or Miscellaneous Disorders of Nervous System with CC,10438,11973,336,9422,299,3735,360
+AA07B,Major Intracranial Procedures Except Trauma with Cerebral Degenerations or Miscellaneous Disorders of Nervous System without CC,8525,11373,241,7154,194,2010,651
+AA08A,Major Intracranial Procedures Except Trauma with Muscular Balance Cranial or Peripheral Nerve Disorders or Epilepsy with CC,8109,8155,359,8214,477,645,2631
+AA08B,Major Intracranial Procedures Except Trauma with Muscular Balance Cranial or Peripheral Nerve Disorders or Epilepsy without CC,9421,10164,347,8938,,713,1663
+AA09A,Major Intracranial Procedures Except Trauma with Other Diagnoses with CC,5858,6997,410,9864,266,2615,1063
+AA09B,Major Intracranial Procedures Except Trauma with Other Diagnoses without CC,2123,4839,273,7746,304,2323,779
+AA10A,Intermediate Intracranial Procedures Except Trauma with Non-Transient Stroke or Cerebrovascular Accident Nervous System Infections or Encephalopathy with CC,11827,6281,,13781,247,3370,
+AA10B,Intermediate Intracranial Procedures Except Trauma with Non-Transient Stroke or Cerebrovascular Accident Nervous System Infections or Encephalopathy without CC,6778,5436,,9090,,2582,
+AA11A,Intermediate Intracranial Procedures Except Trauma with Haemorrhagic Cerebrovascular Disorders with CC,12137,11277,,13779,353,4650,
+AA11B,Intermediate Intracranial Procedures Except Trauma with Haemorrhagic Cerebrovascular Disorders without CC,8811,10976,321,9798,133,4639,
+AA12A,Intermediate Intracranial Procedures Except Trauma with Brain Tumours or Cerebral Cysts with CC,7823,6951,346,8551,334,5079,5168
+AA12B,Intermediate Intracranial Procedures Except Trauma with Brain Tumours or Cerebral Cysts without CC,7300,6632,287,8030,367,4936,7293
+AA13A,Intermediate Intracranial Procedures Except Trauma with Cerebral Degenerations or Miscellaneous Disorders of Nervous System with CC,7013,6085,355,7541,330,3279,3132
+AA13B,Intermediate Intracranial Procedures Except Trauma with Cerebral Degenerations or Miscellaneous Disorders of Nervous System without CC,6230,6473,284,6215,295,2396,2500
+AA14A,Intermediate Intracranial Procedures Except Trauma with Muscular Balance Cranial or Peripheral Nerve Disorders or Epilepsy with CC,3781,3826,519,4471,402,823,1708
+AA14B,Intermediate Intracranial Procedures Except Trauma with Muscular Balance Cranial or Peripheral Nerve Disorders or Epilepsy without CC,3993,5021,400,4769,,,1451
+AA15A,Intermediate Intracranial Procedures Except Trauma with Other Diagnoses with CC,7736,6700,274,8972,429,3583,3403
+AA15B,Intermediate Intracranial Procedures Except Trauma with Other Diagnoses without CC,5751,5971,325,7793,404,1470,1396
+AA16A,Minor Intracranial Procedures Except Trauma with Non-Transient Stroke or Cerebrovascular Accident Nervous System Infections or Encephalopathy with CC,7893,7167,438,9445,253,3490,346
+AA16B,Minor Intracranial Procedures Except Trauma with Non-Transient Stroke or Cerebrovascular Accident Nervous System Infections or Encephalopathy without CC,6452,6780,610,6877,254,2432,1266
+AA17A,Minor Intracranial Procedures Except Trauma with Haemorrhagic Cerebrovascular Disorders with CC,7686,9023,,9798,288,3559,524
+AA17B,Minor Intracranial Procedures Except Trauma with Haemorrhagic Cerebrovascular Disorders without CC,7932,9966,,7003,305,2359,
+AA18A,Minor Intracranial Procedures Except Trauma with Brain Tumours or Cerebral Cysts with CC,5885,5250,255,6747,231,2819,2191
+AA18B,Minor Intracranial Procedures Except Trauma with Brain Tumours or Cerebral Cysts without CC,5569,5404,287,6403,375,2089,1956
+AA19A,Minor Intracranial Procedures Except Trauma with Cerebral Degenerations or Miscellaneous Disorders of Nervous System with CC,4153,4915,372,5543,297,2046,646
+AA19B,Minor Intracranial Procedures Except Trauma with Cerebral Degenerations or Miscellaneous Disorders of Nervous System without CC,3565,5663,838,4742,255,1563,672
+AA20A,Minor Intracranial Procedures Except Trauma with Muscular Balance Cranial or Peripheral Nerve Disorders or Epilepsy with CC,3598,5231,460,3977,432,1826,1581
+AA20B,Minor Intracranial Procedures Except Trauma with Muscular Balance Cranial or Peripheral Nerve Disorders or Epilepsy without CC,3055,5851,394,4477,324,723,1450
+AA21A,Minor Intracranial Procedures Except Trauma with Other Diagnoses with CC,3381,5365,347,6096,353,2132,811
+AA21B,Minor Intracranial Procedures Except Trauma with Other Diagnoses without CC,1079,4645,217,5462,262,2190,845
+AA22A,Non-Transient Stroke or Cerebrovascular Accident Nervous System Infections or Encephalopathy with CC,2771,3346,282,3127,235,586,514
+AA22B,Non-Transient Stroke or Cerebrovascular Accident Nervous System Infections or Encephalopathy without CC,1673,2806,297,2111,269,560,402
+AA23A,Haemorrhagic Cerebrovascular Disorders with CC,2858,3985,307,3282,239,603,677
+AA23B,Haemorrhagic Cerebrovascular Disorders without CC,1507,2748,287,2206,240,600,746
+AA24A,Brain Tumours or Cerebral Cysts with CC,2319,3124,277,2853,239,557,581
+AA24B,Brain Tumours or Cerebral Cysts without CC,1275,2593,281,2019,267,596,660
+AA25A,Cerebral Degenerations or Miscellaneous Disorders of Nervous System with CC,1771,2730,289,2295,223,475,639
+AA25B,Cerebral Degenerations or Miscellaneous Disorders of Nervous System without CC,922,2054,281,1985,243,489,444
+AA26A,Muscular Balance Cranial or Peripheral Nerve Disorders Epilepsy or Head Injury with CC,1247,2394,312,1743,239,439,689
+AA26B,Muscular Balance Cranial or Peripheral Nerve Disorders Epilepsy or Head Injury without CC,791,1986,372,1341,275,414,573
+AA27A,Medical Care of Patients with Alzheimer's Disease with CC,3092,6746,289,4163,230,445,1340
+AA27B,Medical Care of Patients with Alzheimer's Disease without CC,1409,11438,,3228,,445,395
+AA28A,Motor Neuron Disease with CC,2892,2802,275,3845,259,459,385
+AA28B,Motor Neuron Disease without CC,1819,2471,446,2879,238,624,453
+AA29A,Transient Ischaemic Attack with CC,931,1064,293,1343,234,467,464
+AA29B,Transient Ischaemic Attack without CC,559,462,298,1059,246,413,503
+AA30A,Medical Care of Patients with Multiple Sclerosis with CC,1584,2691,233,2959,228,589,497
+AA30B,Medical Care of Patients with Multiple Sclerosis without CC,559,1367,273,2179,287,491,474
+AA31A,Headache Migraine or Cerebrospinal Fluid Leak with CC,697,1621,296,1176,246,430,461
+AA31B,Headache Migraine or Cerebrospinal Fluid Leak without CC,551,1172,301,1026,258,409,403
+AA32Z,Neuropsychology Tests with length of stay 2 days or less,307,2683,,,,436,403
+AA33C,Conventional EEG EMG or Nerve Conduction Studies with length of stay 2 days or less 19 years and over,158,1496,,1766,,855,639
+AA33D,Conventional EEG EMG or Nerve Conduction Studies with length of stay 2 days or less 18 years and under,403,1626,,1968,,1236,944
+AA34C,Neurophysiological Operations 19 years and over,864,1382,452,2462,277,800,180
+AA34D,Neurophysiological Operations 18 years and under,1547,1394,511,3221,296,711,542
+AB02Z,Complex Major Pain Procedures,826,1413,,1051,,,833
+AB03Z,Complex Pain Procedures,841,1712,256,3128,266,699,815
+AB04Z,Major Pain Procedures,730,1606,311,2284,276,939,695
+AB05Z,Intermediate Pain Procedures,601,3363,332,2827,282,746,599
+AB06Z,Minor Pain Procedures,230,1409,318,1821,300,630,616
+AB07Z,Insertion of Neurostimulator or Intrathecal Drug Delivery Device,6460,8506,299,5733,647,572,4268
+AB08Z,Pain Radiofrequency Treatments,755,1160,235,2410,235,723,742
+AB09Z,Other Specified Pain Procedures,488,2520,512,2862,215,606,592
+AB10Z,Unspecified Pain Procedures,502,1205,,4098,198,489,433
+AB11Z,Cognitive Behavioural Therapy,428,8467,,10011,,,130
+BZ01Z,Enhanced Cataract Surgery,1162,2053,322,2128,281,2316,1083
+BZ02Z,Phacoemulsification Cataract Extraction and Lens Implant,865,1748,373,2806,214,1161,851
+BZ03Z,Non-Phacoemulsification Cataract Surgery,1007,2270,288,2760,282,1265,997
+BZ04Z,Lens Capsulotomy,177,555,341,1051,229,498,329
+BZ05Z,Major Oculoplastics Procedures,1676,2264,436,6768,743,1682,1332
+BZ06A,Intermediate Oculoplastics Procedures 19 years and over,969,1925,209,2054,236,889,967
+BZ06B,Intermediate Oculoplastics Procedures 18 years and under,1126,2115,219,2153,524,1068,1062
+BZ07A,Minor Oculoplastics Procedures 19 years and over,518,1720,197,2055,271,776,688
+BZ07B,Minor Oculoplastics Procedures 18 years and under,881,1921,324,1415,519,1019,914
+BZ08A,Major Orbits or Lacrimal Procedures 19 years and over,2507,2598,318,3611,276,1775,1498
+BZ08B,Major Orbits or Lacrimal Procedures 18 years and under,2380,3266,,3976,521,1595,1243
+BZ09A,Intermediate Orbits or Lacrimal Procedures 19 years and over,1361,2050,374,2528,284,1528,1395
+BZ09B,Intermediate Orbits or Lacrimal Procedures 18 years and under,1478,2259,2624,4292,185,2196,1663
+BZ10A,Minor Orbits or Lacrimal Procedures 19 years and over,353,1683,417,2036,348,806,688
+BZ10B,Minor Orbits or Lacrimal Procedures 18 years and under,881,1717,155,2241,413,1086,891
+BZ11Z,Major Cornea or Sclera Procedures,2510,2574,257,4113,346,2543,2203
+BZ12Z,Intermediate Cornea or Sclera Procedures,1964,2525,307,3111,310,1650,1514
+BZ13Z,Minor Cornea or Sclera Procedures,538,1931,259,3089,307,1386,903
+BZ14A,Major Ocular Motility Procedures 19 years and over,1433,1991,662,1170,,,1394
+BZ14B,Major Ocular Motility Procedures 18 years and under,1271,2197,,,,2629,1341
+BZ15A,Intermediate Ocular Motility Procedures 19 years and over,1250,1790,213,1661,268,1307,1268
+BZ15B,Intermediate Ocular Motility Procedures 18 years and under,1343,2488,,1630,361,1015,1295
+BZ16A,Minor Ocular Motility Procedures 19 years and over,1233,1718,,,,1213,1232
+BZ16B,Minor Ocular Motility Procedures 18 years and under,1206,1591,,,,1022,1196
+BZ17Z,Major Glaucoma Procedures,1440,2106,276,1383,349,890,1455
+BZ18Z,Intermediate Glaucoma Procedures,387,1772,436,2168,258,1149,1059
+BZ19Z,Minor Glaucoma Procedures,293,929,194,1803,264,752,517
+BZ20Z,Complex Vitreous Retinal Procedures,2144,2707,351,3073,299,2208,1706
+BZ21Z,Major Vitreous Retinal Procedures,1349,2274,390,2678,389,1749,1445
+BZ22Z,Intermediate Vitreous Retinal Procedures,269,2191,260,3083,328,1692,1194
+BZ23Z,Minor Vitreous Retinal Procedures,150,1166,,4665,,871,402
+BZ24A,Non-Surgical Ophthalmology with length of stay 2 days or more,1981,3139,237,2132,238,539,
+BZ24C,Non-Surgical Ophthalmology with length of stay 1 day or less,212,847,,781,,432,346
+CZ01S,Minor Mouth or Throat Procedures 18 years and under with CC,3287,2476,634,4826,368,938,691
+CZ01T,Minor Mouth or Throat Procedures 18 years and under without CC,243,1057,397,993,357,897,626
+CZ01V,Minor Mouth or Throat Procedures 19 years and over with CC,1817,1889,227,2579,274,661,565
+CZ01Y,Minor Mouth or Throat Procedures 19 years and over without CC,149,1291,339,1231,299,626,571
+CZ02S,Intermediate Mouth or Throat Procedures 18 years and under with CC,2237,1930,215,4202,222,1188,1055
+CZ02T,Intermediate Mouth or Throat Procedures 18 years and under without CC,570,1717,537,1709,412,961,695
+CZ02W,Intermediate Mouth or Throat Procedures 19 years and over with Major CC,3632,2773,210,4684,239,1000,987
+CZ02X,Intermediate Mouth or Throat Procedures 19 years and over with Intermediate CC,1278,1486,326,1367,289,1026,948
+CZ02Y,Intermediate Mouth or Throat Procedures 19 years and over without CC,202,1584,304,1763,281,887,868
+CZ03U,Major Mouth or Throat Procedures 18 years and under,3223,3475,585,4169,319,1657,1304
+CZ03V,Major Mouth or Throat Procedures 19 years and over with CC,3309,3432,328,3910,404,1566,1122
+CZ03Y,Major Mouth or Throat Procedures 19 years and over without CC,1837,2836,339,2968,308,1189,1053
+CZ04O,Complex Major Mouth or Throat Procedures with Major CC,21251,20873,298,22030,254,10497,20615
+CZ04P,Complex Major Mouth or Throat Procedures with Intermediate CC,12102,11721,312,17336,238,4199,1544
+CZ04Q,Complex Major Mouth or Throat Procedures without CC,6941,9042,474,8932,,,1390
+CZ05S,Tonsillectomy 18 years and under with CC,1560,1555,508,1400,589,1303,1157
+CZ05T,Tonsillectomy 18 years and under without CC,1314,1467,524,1116,375,917,1128
+CZ05V,Tonsillectomy 19 years and over with CC,1351,1517,360,1050,284,702,1122
+CZ05Y,Tonsillectomy 19 years and over without CC,1213,1445,278,829,316,728,1142
+CZ07O,Exteriorisation of Trachea with Major CC,6727,8340,122,7790,240,2301,216
+CZ07P,Exteriorisation of Trachea with Intermediate CC,4160,4108,285,5297,215,1816,932
+CZ07Q,Exteriorisation of Trachea without CC,2069,4043,416,4860,230,1511,662
+CZ08S,Minor Ear Procedures 18 years and under with CC,1115,1516,491,1979,135,1220,957
+CZ08T,Minor Ear Procedures 18 years and under without CC,261,1287,284,1255,122,811,833
+CZ08V,Minor Ear Procedures 19 years and over with CC,1038,1461,227,2675,244,648,761
+CZ08Y,Minor Ear Procedures 19 years and over without CC,132,1409,249,1471,305,635,727
+CZ09U,Intermediate Ear Procedures 18 years and under,1311,2717,492,1733,465,1102,1477
+CZ09V,Intermediate Ear Procedures 19 years and over with CC,1321,2487,935,2148,248,717,956
+CZ09Y,Intermediate Ear Procedures 19 years and over without CC,671,2826,280,1757,434,1013,991
+CZ10U,Major Ear Procedures 18 years and under,2491,2833,642,2955,393,2087,1849
+CZ10V,Major Ear Procedures 19 years and over with CC,2666,2855,357,2731,342,2576,1854
+CZ10Y,Major Ear Procedures 19 years and over without CC,2303,2744,346,3181,296,1100,1957
+CZ11Z,Complex Major Ear Procedures,2527,3661,579,4325,276,,1704
+CZ12U,Minor Nose Procedures 18 years and under,509,1286,529,1441,403,823,755
+CZ12V,Minor Nose Procedures 19 years and over with CC,1033,1610,336,1525,239,602,743
+CZ12Y,Minor Nose Procedures 19 years and over without CC,403,1324,181,1275,293,601,670
+CZ13U,Intermediate Nose Procedures 18 years and under,944,1704,393,1500,431,873,1154
+CZ13V,Intermediate Nose Procedures 19 years and over with CC,1423,1673,368,1488,272,606,1193
+CZ13Y,Intermediate Nose Procedures 19 years and over without CC,814,1596,300,946,349,660,1232
+CZ14U,Major Nose Procedures 18 years and under,2154,2414,530,2907,381,2849,1549
+CZ14V,Major Nose Procedures 19 years and over with CC,1860,2071,384,1562,359,918,1340
+CZ14Y,Major Nose Procedures 19 years and over without CC,1707,2067,367,1721,322,993,1381
+CZ15N,Complex Major Nose Procedures with CC,2738,3005,176,4415,336,1757,1145
+CZ15Q,Complex Major Nose Procedures without CC,2050,2501,380,3152,523,1465,1185
+CZ16N,Minor Maxillo-facial Procedures with CC,1735,1938,201,2669,294,1349,977
+CZ16Q,Minor Maxillo-facial Procedures without CC,1177,1709,347,1914,377,1363,907
+CZ17U,Intermediate Maxillo-facial Procedures 18 years and under,2372,2916,502,3244,478,1947,1205
+CZ17V,Intermediate Maxillo-facial Procedures 19 years and over with CC,2889,3623,309,3256,292,2017,1168
+CZ17Y,Intermediate Maxillo-facial Procedures 19 years and over without CC,1530,2472,315,2727,361,1927,1061
+CZ18R,Major Maxillo-facial Procedures 19 years and over,4381,4513,272,3833,294,1475,1142
+CZ18U,Major Maxillo-facial Procedures 18 years and under,4067,4162,580,5359,187,2051,1273
+CZ19Z,Complex Major Maxillo-facial Procedures,7667,8296,380,8941,230,1505,1248
+CZ20Z,Complex Major Head or Neck Procedures with Reconstruction,18837,18052,,47910,,,
+CZ21V,Minor Head Neck and Ear Disorders with CC,794,1485,278,1139,231,410,423
+CZ21Y,Minor Head Neck and Ear Disorders without CC,578,1685,531,1183,240,419,398
+CZ22W,Intermediate Head Neck and Ear Disorders with Major CC,1477,2422,249,2043,233,486,410
+CZ22X,Intermediate Head Neck and Ear Disorders with Intermediate CC,817,1723,337,1377,258,440,381
+CZ22Y,Intermediate Head Neck and Ear Disorders without CC,716,1567,413,1224,278,472,402
+CZ23W,Major Head Neck and Ear Disorders with Major CC,1976,3335,237,2452,260,474,517
+CZ23X,Major Head Neck and Ear Disorders with Intermediate CC,962,1797,279,1485,271,421,333
+CZ23Y,Major Head Neck and Ear Disorders without CC,729,1681,281,1246,297,413,267
+CZ24O,Complex Major Head Neck and Ear Disorders with Major CC,4932,5435,257,4989,258,574,387
+CZ24P,Complex Major Head Neck and Ear Disorders with Intermediate CC,2113,2111,262,3002,300,513,279
+CZ24Q,Complex Major Head Neck and Ear Disorders without CC,1732,2104,288,2512,263,427,332
+CZ25N,Cochlear Implants with CC,22690,22740,426,19383,415,,19566
+CZ25Q,Cochlear Implants without CC,20191,20396,1432,,,,19499
+CZ27Z,Fixture for Bone Anchored Hearing Aids,2471,3168,230,2994,387,,2640
+CZ28Z,Fitting of Bone Anchored Hearing Aids,2692,2829,334,1079,251,543,2613
+CZ30U,Minor Extraction of Tooth 18 years and under,456,1136,,1559,,844,507
+CZ30Y,Minor Extraction of Tooth 19 years and over,240,1507,,1420,,652,381
+CZ31U,Minor Dental Biopsy 18 years and under,318,1554,,1102,,913,572
+CZ31Y,Minor Dental Biopsy 19 years and over,281,1356,,1438,,589,406
+CZ32U,Dental Fitting or Insertion Procedures 18 years and under,181,2058,,682,,734,1080
+CZ32Y,Dental Fitting or Insertion Procedures 19 years and over,157,1846,,1540,,425,694
+CZ33U,Minor Dental Restoration Procedures 18 years and under,373,1633,,422,,742,634
+CZ33Y,Minor Dental Restoration Procedures 19 years and over,278,2171,,690,,1385,487
+CZ34U,Minor Dental Procedures 18 years and under,165,1455,43,1513,,938,647
+CZ34Y,Minor Dental Procedures 19 years and over,160,1662,,1670,,901,548
+CZ35U,Adjustment of Dental Device 18 years and under,127,891,,363,,239,737
+CZ35Y,Adjustment of Dental Device 19 years and over,131,1914,,,,,1073
+CZ36U,Dental Excision or Biopsy Procedures 18 years and under,673,1912,,1792,,704,726
+CZ36Y,Dental Excision or Biopsy Procedures 19 years and over,493,1649,,1545,,752,531
+CZ37U,Surgical Removal of Tooth 18 years and under,841,1393,,1590,,947,885
+CZ37Y,Surgical Removal of Tooth 19 years and over,360,1466,,1808,,863,549
+CZ38U,Creation of Dental Impression 18 years and under,132,2856,,,,1589,966
+CZ38Y,Creation of Dental Impression 19 years and over,156,1718,,2931,,,520
+CZ39U,Intermediate Dental Procedures 18 years and under,161,1591,,1031,,1119,937
+CZ39Y,Intermediate Dental Procedures 19 years and over,501,1589,,1397,,783,1006
+CZ40U,Major Surgical Removal of Tooth 18 years and under,1002,1495,,1455,,1066,1000
+CZ40Y,Major Surgical Removal of Tooth 19 years and over,586,1398,,1744,,1068,657
+CZ41U,Major Dental Procedures 18 years and under,965,2341,,2108,,996,917
+CZ41Y,Major Dental Procedures 19 years and over,638,1576,,1719,,921,727
+CZ42U,Extraction of Multiple Teeth 18 years and under,673,1449,,1582,,985,655
+CZ42Y,Extraction of Multiple Teeth 19 years and over,563,1695,,1778,,948,681
+DZ01Z,Lung Transplant,34530,53980,3038,31471,626,6269,
+DZ02A,Complex Thoracic Procedures with Major CC,9528,9441,375,9015,318,3578,
+DZ02B,Complex Thoracic Procedures with Intermediate CC,7566,7502,356,7205,333,2709,1724
+DZ02C,Complex Thoracic Procedures without CC,6394,6542,300,6037,456,3254,948
+DZ03A,Major Thoracic Procedures with CC,3846,4295,270,6274,304,2391,962
+DZ03B,Major Thoracic Procedures without CC,2145,3870,281,4025,278,1681,863
+DZ04A,Intermediate Thoracic Procedures with CC,3398,4075,320,4560,256,1440,981
+DZ04B,Intermediate Thoracic Procedures without CC,1975,3432,314,4026,315,1300,895
+DZ06Z,Minor Thoracic Procedures,647,999,,3038,,574,607
+DZ07A,Fibre Optic Bronchoscopy 19 years and over,613,881,,1201,,593,607
+DZ07B,Fibre Optic Bronchoscopy 18 years and under,1678,2986,,7821,,1220,1198
+DZ08Z,Rigid Bronchoscopy,1502,1727,,1659,,1359,1212
+DZ09A,Pulmonary Embolus with Major CC,1930,2409,305,2332,221,522,375
+DZ09B,Pulmonary Embolus with Intermediate CC,1374,1740,267,1807,225,481,412
+DZ09C,Pulmonary Embolus without CC,884,919,237,1407,240,463,414
+DZ10A,Lung Abscess-Empyema with Major CC,3414,4454,265,3737,224,606,334
+DZ10B,Lung Abscess-Empyema with Intermediate CC,2680,3196,251,3234,232,561,350
+DZ10C,Lung Abscess-Empyema without CC,2174,2814,221,2863,200,812,367
+DZ11A,Lobar Atypical or Viral Pneumonia with Major CC,2079,3190,259,2433,228,494,438
+DZ11B,Lobar Atypical or Viral Pneumonia with Intermediate CC,1474,3072,324,1850,227,452,441
+DZ11C,Lobar Atypical or Viral Pneumonia without CC,861,2116,341,1267,242,427,325
+DZ12A,Bronchiectasis with CC,1956,4067,375,2316,257,470,469
+DZ12B,Bronchiectasis without CC,864,2243,234,1714,250,416,453
+DZ14A,Pulmonary Pleural or Other Tuberculosis with CC,2540,3481,254,3112,290,574,742
+DZ14B,Pulmonary Pleural or Other Tuberculosis without CC,1736,2092,313,2409,261,543,551
+DZ15A,Asthma with Intubation with Major CC,2067,3046,230,2489,323,740,
+DZ15B,Asthma with Intubation with Intermediate CC,1429,2177,,2033,,489,
+DZ15C,Asthma with Intubation without CC,815,,,1100,,425,
+DZ15D,Asthma without Intubation with Major CC,1267,3669,304,1527,226,454,538
+DZ15E,Asthma without Intubation with Intermediate CC,900,3381,320,1281,229,413,494
+DZ15F,Asthma without Intubation without CC,618,1827,328,1029,234,390,393
+DZ16A,Pleural Effusion with Major CC,2085,2487,250,2531,226,504,431
+DZ16B,Pleural Effusion with Intermediate CC,1507,2361,261,1875,235,489,433
+DZ16C,Pleural Effusion without CC,1202,2007,255,1554,242,468,440
+DZ17A,Respiratory Neoplasms with Major CC,2115,2421,259,2717,233,517,403
+DZ17B,Respiratory Neoplasms with Intermediate CC,1467,1775,290,2038,234,486,580
+DZ17C,Respiratory Neoplasms without CC,864,1357,267,1738,283,559,410
+DZ18Z,Sleeping Disorders Affecting Breathing,892,682,430,999,274,498,409
+DZ19A,Other Respiratory Diagnoses with Major CC,941,1829,338,1275,243,440,481
+DZ19B,Other Respiratory Diagnoses with Intermediate CC,744,1814,352,1161,234,418,506
+DZ19C,Other Respiratory Diagnoses without CC,587,1563,295,1046,242,397,468
+DZ20Z,Pulmonary Oedema,1542,2726,282,1950,221,490,300
+DZ21A,Chronic Obstructive Pulmonary Disease or Bronchitis with length of stay 1 day or less discharged home,425,839,,669,,411,476
+DZ21B,Chronic Obstructive Pulmonary Disease or Bronchitis with Intubation with Major CC,2242,,,2508,203,744,
+DZ21C,Chronic Obstructive Pulmonary Disease or Bronchitis with Intubation with Intermediate CC,2540,4118,,2497,174,692,
+DZ21D,Chronic Obstructive Pulmonary Disease or Bronchitis with Intubation without CC,1475,,,2876,,75,
+DZ21E,Chronic Obstructive Pulmonary Disease or Bronchitis with NIV without Intubation with Major CC,2342,4143,278,2283,224,559,
+DZ21F,Chronic Obstructive Pulmonary Disease or Bronchitis with NIV without Intubation with Intermediate CC,2134,2903,357,2110,228,617,
+DZ21G,Chronic Obstructive Pulmonary Disease or Bronchitis with NIV without Intubation without CC,1626,1638,,1640,203,484,
+DZ21H,Chronic Obstructive Pulmonary Disease or Bronchitis without NIV without Intubation with Major CC,2009,3183,319,1985,218,527,
+DZ21J,Chronic Obstructive Pulmonary Disease or Bronchitis without NIV without Intubation with Intermediate CC,1625,3032,293,1576,221,489,359
+DZ21K,Chronic Obstructive Pulmonary Disease or Bronchitis without NIV without Intubation without CC,1275,2679,287,1275,231,443,
+DZ22A,Unspecified Acute Lower Respiratory Infection with Major CC,1715,3055,262,2123,216,464,427
+DZ22B,Unspecified Acute Lower Respiratory Infection with Intermediate CC,1172,2662,317,1580,225,429,704
+DZ22C,Unspecified Acute Lower Respiratory Infection without CC,657,1524,295,1137,251,412,410
+DZ23A,Bronchopneumonia with Major CC,2159,3734,240,2600,225,467,338
+DZ23B,Bronchopneumonia with Intermediate CC,1553,2931,273,1935,233,419,491
+DZ23C,Bronchopneumonia without CC,943,1120,387,1310,278,424,219
+DZ24A,Inhalation Lung Injury or Foreign Body with Major CC,2669,3895,253,3180,216,483,563
+DZ24B,Inhalation Lung Injury or Foreign Body with Intermediate CC,1992,3087,224,2420,228,452,1187
+DZ24C,Inhalation Lung Injury or Foreign Body without CC,1368,1331,285,1714,262,492,367
+DZ25A,Fibrosis or Pneumoconiosis with CC,1694,2792,352,2153,229,444,606
+DZ25B,Fibrosis or Pneumoconiosis without CC,1150,2626,74,1622,240,453,605
+DZ26A,Pneumothorax or Intrathoracic Injuries with CC,1773,2072,277,2097,259,596,598
+DZ26B,Pneumothorax or Intrathoracic Injuries without CC,951,1238,254,1307,243,471,377
+DZ27A,Respiratory Failure with Intubation with Major CC,2420,3630,231,3082,179,854,
+DZ27B,Respiratory Failure with Intubation with Intermediate CC,2335,6067,1045,2480,8,558,
+DZ27C,Respiratory Failure with Intubation without CC,310,,,553,,249,
+DZ27D,Respiratory Failure without Intubation with Major CC,1988,1530,247,2378,233,476,508
+DZ27E,Respiratory Failure without Intubation with Intermediate CC,1345,1073,322,1959,226,456,487
+DZ27F,Respiratory Failure without Intubation without CC,1043,1178,411,1644,234,596,476
+DZ28Z,Pleurisy,527,1397,275,951,290,388,625
+DZ29A,Granulomatous Allergic Alveolitis or Autoimmune Lung Disease with CC,1431,2481,361,2559,241,517,505
+DZ29B,Granulomatous Allergic Alveolitis or Autoimmune Lung Disease without CC,735,1771,337,1711,328,674,521
+DZ30Z,Chest Physiotherapy,288,1116,,973,,459,396
+DZ31Z,Complex Lung Function Exercise Testing,241,864,,,,,512
+DZ32Z,Simple Lung Function Exercise Testing,160,672,,,,422,682
+DZ33Z,Hyperbaric Oxygen Treatment,184,,,,,319,
+DZ34Z,Complex Bronchodilator Studies,55,,,,,,252
+DZ35Z,Simple Bronchodilator Studies,203,,,,,600,419
+DZ36Z,Bronchial Reactivity Studies,142,413,,,,379,178
+DZ37A,Non-Invasive Ventilation Support Assessment 19 years and over,444,1026,,1108,,524,707
+DZ37B,Non-Invasive Ventilation Support Assessment 18 years and under,1557,3816,,2992,,1050,783
+DZ38Z,Oxygen Assessment and Monitoring,174,369,,,,543,320
+DZ39Z,Complex Gas Exchange Studies,167,1721,,2413,,,701
+DZ40Z,Simple Gas Exchange Studies,152,350,,,,296,1095
+DZ41Z,Smoking Cessation Support,140,,,,,302,
+DZ42Z,TB Nurse Support,182,1114,,785,,351,454
+DZ43Z,Complex Airflow Studies,126,,,,,,1085
+DZ44Z,Simple Airflow Studies,159,584,,196,,426,800
+DZ45Z,Lung Volume Studies,95,,,,,,
+DZ46Z,Respiratory Muscle Strength Studies,108,263,,,,,
+DZ48Z,Respiratory Drive Studies,109,,,,,,
+DZ49Z,Respiratory Nurse and AHP Education or Support,162,,,,,337,414
+DZ50Z,Respiratory Sleep Study,657,723,,4420,,660,474
+DZ51Z,Complex Tuberculosis,19432,20698,392,18338,268,,
+DZ52Z,Full Pulmonary Function Testing,146,,,,,,277
+EA01Z,Heart and Lung Transplant,64650,52965,,92599,,1120,
+EA02Z,Heart Transplant,41712,42932,,47229,1197,47296,1093
+EA03Z,Pace 1: Single Chamber or Implantable Diagnostic Device,2636,2937,349,4259,262,1837,1954
+EA05Z,Pace 2: Dual Chamber,3477,3006,411,4270,290,2274,2274
+EA07Z,Pace 3: Biventricular and all Congenital Pacemaker Procedures; Resynchronisation Therapy,6480,5495,268,7501,317,6146,6130
+EA09Z,Percutaneous Interventions: Percutaneous Transluminal ASD VSD or PFO Closure and Valve Insertion,5525,5568,614,7706,341,3503,4887
+EA10Z,Percutaneous Interventions: Balloon Valve Intermediate Interventions and Arterial Duct Closure,5840,5528,288,6921,325,4447,3364
+EA11Z,Percutaneous Interventions: Other including Septostomy Embolisations Non-Coronary Stents and Energy Moderated Perforation,4045,4690,461,3729,412,1416,2032
+EA12Z,Implantation of Cardioverter; Defibrillator only,13256,13317,261,14596,338,9358,11583
+EA14Z,Coronary Artery Bypass Graft (First Time),9463,9333,290,9683,347,6408,1691
+EA16Z,Coronary Artery Bypass Graft (First Time) with Percutaneous Coronary Intervention Pacing EP or RFA,9791,9762,256,9857,303,3232,
+EA17Z,Single Cardiac Valve Procedures,10706,10596,334,11401,326,6921,1295
+EA19Z,Single Cardiac Valve Procedures with Percutaneous Coronary Intervention Pacing EP or RFA,11821,11558,296,12711,255,4534,834
+EA20Z,Other Complex Cardiac Surgery and Re-do's,12380,12351,253,13006,263,6863,890
+EA22Z,Other Complex Cardiac Surgery with Percutaneous Coronary Intervention Pacing EP or RFA,14449,14354,217,15567,218,7352,1164
+EA23Z,Major Complex Congenital Surgery,12752,12281,433,14332,161,8992,1926
+EA24Z,Complex Congenital Surgery,7460,9002,274,11636,455,6794,635
+EA25Z,Intermediate Congenital Surgery,8341,7818,640,10555,180,5760,867
+EA26Z,Standard Congenital Surgery,5453,6248,244,4799,313,5991,1364
+EA29Z,Percutaneous Complex Ablation including for Atrial Fibrillation or Ventricular Tachycardia,4414,4469,310,5884,356,2530,2530
+EA31Z,Percutaneous Coronary Intervention 0 to 2 Stents,2639,2190,351,3084,330,1796,2218
+EA35Z,Other Percutaneous Interventions,1561,2033,464,3193,344,1289,1458
+EA36A,Catheter 19 years and over,1636,2063,386,3020,313,1039,1059
+EA36B,Catheter 18 years and under,4355,4192,925,5772,613,2228,3728
+EA39Z,Pacemaker Procedure without Generator Implant including Re-siting and Removal of Cardiac Pacemaker System,4064,3706,273,5916,344,1932,1708
+EA40Z,Other Non-Complex Cardiac Surgery,5677,6809,328,7854,414,1963,1120
+EA43Z,Implantation of Prosthetic Heart or Ventricular Assist Device,36361,36452,146,40466,341,12733,
+EA44Z,Minor Cardiac Procedures,286,4197,357,4847,281,1460,884
+EA45Z,Complex Echocardiogram including Congenital Transoesophageal and Fetal Echocardiography,281,1352,,2141,,681,768
+EA47Z,Electrocardiogram Monitoring and Stress Testing,112,1114,,1564,,414,454
+EA48Z,Single or Dual Chamber Pacemaker or Implantable Diagnostic Device with Percutaneous Coronary Intervention EP or RFA,5365,5130,,6681,280,2168,2188
+EA49Z,Percutaneous Coronary Interventions with 3 or more Stents Rotablation IVUS or Pressure Wire,3143,2705,314,3686,315,2067,2719
+EA51Z,Coronary Artery Bypass Graft with Valve Replacement or Repair,12470,12206,234,13082,342,8140,1652
+EA52Z,Repair or Replacement of more than one Heart Valve,14766,14176,247,16045,549,10232,
+EA53Z,Transcatheter Aortic Valve Implantation (TAVI),15455,14980,393,16743,475,7376,683
+EA54Z,Percutaneous Standard Ablation,3042,3133,462,4000,359,2365,2331
+EA55Z,Percutaneous Diagnostic Electrophysiology Studies,2360,2430,483,3612,312,1669,1809
+EA56Z,Implantation of Cardiac Resynchronization Therapy Defibrillator (CRT-D),16451,15189,350,16772,385,12947,21912
+EB01Z,Non-Interventional Acquired Cardiac Conditions,775,1729,309,1216,262,433,725
+EB02Z,Endocarditis,4236,5433,344,5251,247,640,592
+EB03H,Heart Failure or Shock with CC,2232,4116,275,2716,229,483,549
+EB03I,Heart Failure or Shock without CC,1387,2699,341,1884,239,440,603
+EB04H,Hypertension with CC,1935,2638,170,2510,225,538,590
+EB04I,Hypertension without CC,1077,1527,250,1960,216,552,446
+EB05Z,Cardiac Arrest,1379,2127,348,2073,209,521,278
+EB06Z,Cardiac Valve Disorders,2383,3336,270,2777,243,552,897
+EB07H,Arrhythmia or Conduction Disorders with CC,1357,1699,230,1834,230,470,842
+EB07I,Arrhythmia or Conduction Disorders without CC,818,1361,387,1347,253,450,834
+EB08H,Syncope or Collapse with CC,1051,1561,317,1481,223,438,484
+EB08I,Syncope or Collapse without CC,657,989,307,994,232,401,549
+EB09Z,Non-Interventional Congenital Cardiac Conditions,1734,3408,275,3081,416,644,858
+EB10Z,Actual or Suspected Myocardial Infarction,1582,2251,312,1967,242,561,688
+FZ12D,Major General Abdominal Procedures 19 years and over with Major CC,5565,5522,276,5905,245,2099,1119
+FZ12E,Major General Abdominal Procedures 19 years and over with Intermediate CC,3379,3470,299,4114,268,1424,1026
+FZ12F,Major General Abdominal Procedures 19 years and over without CC,2794,3192,283,3893,270,1246,1115
+FZ12H,Major General Abdominal Procedures between 2 and 18 years with CC,7884,9582,765,7067,324,1581,2120
+FZ12I,Major General Abdominal Procedures between 2 and 18 years without CC,3649,5654,,4333,328,1361,1325
+FZ12J,Major General Abdominal Procedures 1 year and under with Major CC,11644,10216,412,28898,269,1689,
+FZ12K,Major General Abdominal Procedures 1 year and under without Major CC,4641,4565,,7876,1811,2093,1871
+FZ13C,Minor Therapeutic or Diagnostic General Abdominal Procedures 19 years and over,920,1201,,1344,,739,918
+FZ13D,Minor Therapeutic or Diagnostic General Abdominal Procedures 18 years and under,840,1896,,1056,,1037,660
+FZ17A,Abdominal Hernia Procedures 19 years and over with Major CC,4571,4295,345,5165,237,2060,1529
+FZ17B,Abdominal Hernia Procedures 19 years and over with Intermediate CC,2917,3107,329,3511,254,1742,1317
+FZ17C,Abdominal Hernia Procedures 19 years and over without CC,2171,2700,290,3031,245,1558,1290
+FZ17D,Abdominal Hernia Procedures 18 years and under,1371,2989,466,2743,169,1367,1107
+FZ18A,Inguinal Umbilical or Femoral Hernia Procedures 19 years and over with Major CC,2512,2332,290,3699,251,1724,1412
+FZ18B,Inguinal Umbilical or Femoral Hernia Procedures 19 years and over with Intermediate CC,1954,2050,287,2658,276,1722,1365
+FZ18C,Inguinal Umbilical or Femoral Hernia Procedures 19 years and over without CC,1560,1905,386,1933,326,1705,1380
+FZ18E,Inguinal Umbilical or Femoral Hernia Procedures between 2 and 18 years,1353,1969,735,2726,294,1628,1267
+FZ18F,Inguinal Umbilical or Femoral Hernia Procedures 1 year and under,2206,2408,638,3805,186,1942,1473
+FZ19A,Herniotomy Procedures 2 years and over,1264,1858,393,2335,782,1654,1202
+FZ19B,Herniotomy Procedures 1 year and under,1857,2050,360,2922,410,1647,1274
+FZ20A,Appendicectomy Procedures 19 years and over with Major CC,3815,3305,312,3980,257,1851,1701
+FZ20B,Appendicectomy Procedures 19 years and over without Major CC,2672,2504,545,2848,273,1861,1399
+FZ20D,Appendicectomy Procedures 18 years and under with Major CC,3952,3881,500,4167,330,2092,1115
+FZ20E,Appendicectomy Procedures 18 years and under without Major CC,2685,3012,448,2842,389,1754,1230
+FZ21A,Major Anal Procedures 19 years and over,1537,1948,320,2307,262,1211,1024
+FZ21B,Major Anal Procedures 18 years and under,2628,3603,394,3492,420,1286,1339
+FZ22A,Intermediate Anal Procedures 19 years and over,1182,1505,257,1711,285,1015,972
+FZ22B,Intermediate Anal Procedures 18 years and under,1286,1764,476,1854,388,1042,1044
+FZ23A,Minor Anal Procedures 19 years and over,509,1221,,1173,,797,668
+FZ23B,Minor Anal Procedures 18 years and under,955,1431,,,,1012,984
+FZ24A,Major Therapeutic Endoscopic Upper or Lower GI Tract Procedures 19 years and over with Major CC,1845,2166,195,3838,242,600,613
+FZ24B,Major Therapeutic Endoscopic Upper or Lower GI Tract Procedures 19 years and over with Intermediate CC,986,1411,313,2082,260,745,672
+FZ24C,Major Therapeutic Endoscopic Upper or Lower GI Tract Procedures 19 years and over without CC,824,1434,421,2070,325,950,636
+FZ24E,Major Therapeutic Endoscopic Upper or Lower GI Tract Procedures between 2 and 18 years,1511,2422,327,2488,345,1172,1140
+FZ24F,Major Therapeutic Endoscopic Upper or Lower GI Tract Procedures 1 year and under,1848,1932,294,2633,457,1456,1211
+FZ27A,Intermediate Therapeutic General Abdominal Procedures 19 years and over with Major CC,1061,3275,323,4615,225,1106,1043
+FZ27B,Intermediate Therapeutic General Abdominal Procedures 19 years and over with Intermediate CC,2515,2495,226,3604,310,978,1117
+FZ27C,Intermediate Therapeutic General Abdominal Procedures 19 years and over without CC,1891,2237,237,2941,295,1177,1136
+FZ27D,Intermediate Therapeutic General Abdominal Procedures 18 years and under,1969,3213,607,3463,245,1351,1138
+FZ31D,Disorders of the Oesophagus with length of stay 2 days or more with Major CC,2939,3453,246,2700,217,774,
+FZ31E,Disorders of the Oesophagus with length of stay 2 days or more without Major CC,1945,2240,413,1751,232,358,
+FZ31F,Disorders of the Oesophagus with length of stay 1 day or less,430,666,,716,,409,363
+FZ33C,Small Intestinal Disorders excluding Inflammatory Bowel Disease with length of stay 2 days or more with CC,3502,3390,310,3176,266,340,
+FZ33D,Small Intestinal Disorders excluding Inflammatory Bowel Disease with length of stay 2 days or more without CC,2177,2171,324,2002,230,828,329
+FZ33E,Small Intestinal Disorders excluding Inflammatory Bowel Disease with length of stay 1 day or less,511,826,,1045,,543,319
+FZ36D,Intestinal Infectious Disorders with length of stay 2 days or more with Major CC,3426,3388,377,3122,227,374,
+FZ36E,Intestinal Infectious Disorders with length of stay 2 days or more without Major CC,1846,2907,229,1668,233,315,
+FZ36F,Intestinal Infectious Disorders with length of stay 1 day or less,443,522,,814,,428,391
+FZ37F,Inflammatory Bowel Disease with length of stay 1 day or less,424,533,,655,,440,365
+FZ37G,Inflammatory Bowel Disease with length of stay 2 days or more with Interventions with Major CC,4263,4093,410,4009,298,927,
+FZ37H,Inflammatory Bowel Disease with length of stay 2 days or more without Interventions with Major CC,2162,2571,321,1962,221,330,
+FZ37I,Inflammatory Bowel Disease with length of stay 2 days or more with Interventions without Major CC,2602,2574,258,2492,228,766,9222
+FZ37J,Inflammatory Bowel Disease with length of stay 2 days or more without Interventions without Major CC,1558,1982,234,1486,228,333,1776
+FZ38D,Gastrointestinal Bleed with length of stay 2 days or more with Major CC,2282,2456,251,2042,229,870,
+FZ38E,Gastrointestinal Bleed with length of stay 2 days or more without Major CC,1512,1747,282,1431,236,459,2160
+FZ38F,Gastrointestinal Bleed with length of stay 1 day or less,458,559,,561,,451,312
+FZ39D,Hernia Disorders with length of stay 2 days or more with Major CC,2955,2928,296,2641,257,1321,
+FZ39E,Hernia Disorders with length of stay 2 days or more without Major CC,1786,2131,297,1631,237,370,
+FZ39F,Hernia Disorders with length of stay 1 day or less,512,801,,876,,467,567
+FZ40A,Appendix Disorders with length of stay 2 days or more,2058,2512,181,1946,240,351,
+FZ40B,Appendix Disorders with length of stay 1 day or less,684,748,,828,,677,386
+FZ41D,Anal Disorders with length of stay 2 days or more with Major CC,2780,3011,349,2412,239,383,
+FZ41E,Anal Disorders with length of stay 2 days or more without Major CC,1763,2077,364,1574,253,346,
+FZ41F,Anal Disorders with length of stay 1 day or less,439,624,,765,,427,368
+FZ42A,Wireless Capsule Endoscopy 19 years and over,773,891,,277,,606,773
+FZ42B,Wireless Capsule Endoscopy 18 years and under,1132,2096,,,,415,851
+FZ43A,Non-Malignant Stomach or Duodenum Disorders with length of stay 2 days or more with Major CC,2335,3027,243,2113,227,408,
+FZ43B,Non-Malignant Stomach or Duodenum Disorders with length of stay 2 days or more without Major CC,1640,1996,222,1510,234,429,
+FZ43C,Non-Malignant Stomach or Duodenum Disorders with length of stay 1 day or less,425,643,,606,,415,399
+FZ44A,Malignant Stomach or Duodenum Disorders with length of stay 2 days or more with Major CC,3102,3514,298,2921,242,296,
+FZ44B,Malignant Stomach or Duodenum Disorders with length of stay 2 days or more without Major CC,2165,2136,277,2060,220,405,
+FZ44C,Malignant Stomach or Duodenum Disorders with length of stay 1 day or less,527,734,,1166,,506,347
+FZ45A,Non-Malignant Large Intestinal Disorders with length of stay 2 days or more with Major CC,2720,3070,279,2446,238,464,540
+FZ45B,Non-Malignant Large Intestinal Disorders with length of stay 2 days or more without Major CC,1847,2351,260,1677,235,351,599
+FZ45C,Non-Malignant Large Intestinal Disorders with length of stay 1 day or less,475,599,,805,,458,370
+FZ46A,Malignant Large Intestinal Disorders with length of stay 2 days or more with Major CC,3620,3473,263,3444,230,728,
+FZ46B,Malignant Large Intestinal Disorders with length of stay 2 days or more without Major CC,2244,1911,259,2311,239,356,566
+FZ46C,Malignant Large Intestinal Disorders with length of stay 1 day or less,472,860,,1493,,527,348
+FZ47A,Non-Malignant General Abdominal Disorders with length of stay 2 days or more with Major CC,2783,3262,234,2491,244,509,1784
+FZ47B,Non-Malignant General Abdominal Disorders with length of stay 2 days or more without Major CC,1613,1983,303,1517,268,368,
+FZ47C,Non-Malignant General Abdominal Disorders with length of stay 1 day or less,479,641,,787,,468,397
+FZ48A,Malignant General Abdominal Disorders with length of stay 2 days or more with Major CC,3155,2713,321,3126,257,491,
+FZ48B,Malignant General Abdominal Disorders with length of stay 2 days or more without Major CC,2099,1905,257,2005,277,556,
+FZ48C,Malignant General Abdominal Disorders with length of stay 1 day or less,500,696,,915,,525,325
+FZ49A,Nutritional Disorders with length of stay 2 days or more with Major CC,3275,3567,250,2982,200,294,
+FZ49B,Nutritional Disorders with length of stay 2 days or more without Major CC,2566,2416,226,2247,244,296,
+FZ49C,Nutritional Disorders with length of stay 1 day or less,463,725,,1059,,447,344
+FZ50Z,Intermediate Large Intestine Procedures 19 years and over,451,1486,,1994,,724,699
+FZ51Z,Diagnostic Colonoscopy 19 years and over,528,808,,599,,503,527
+FZ52Z,Diagnostic Colonoscopy with Biopsy 19 years and over,572,840,795,946,,529,570
+FZ53Z,Therapeutic Colonoscopy 19 years and over,567,886,,800,,566,564
+FZ54Z,Diagnostic Flexible Sigmoidoscopy 19 years and over,412,785,,929,,449,446
+FZ55Z,Diagnostic Flexible Sigmoidoscopy with Biopsy 19 years and over,467,861,,725,,447,481
+FZ56Z,Therapeutic Flexible Sigmoidoscopy 19 years and over,512,947,,702,,603,502
+FZ57Z,Diagnostic or Therapeutic Rigid Sigmoidoscopy 19 years and over,196,1276,,1436,,605,635
+FZ58A,Endoscopic or Intermediate Lower GI Tract Procedures between 2 and 18 years,804,1739,,644,,786,781
+FZ58B,Endoscopic or Intermediate Lower GI Tract Procedures 1 year and under,1119,1936,,1322,,1467,831
+FZ59Z,Intermediate Upper GI Tract Procedures 19 years and over,309,831,,594,,542,337
+FZ60Z,Diagnostic Endoscopic Upper GI Tract Procedures 19 years and over,436,726,,643,,475,431
+FZ61Z,Diagnostic Endoscopic Upper GI Tract Procedures with Biopsy 19 years and over,454,882,,696,,458,453
+FZ62A,Endoscopic or Intermediate Upper GI Tract Procedures between 2 and 18 years,1010,1734,,2678,,820,902
+FZ62B,Endoscopic or Intermediate Upper GI Tract Procedures 1 year and under,960,1638,,2708,,710,896
+FZ63Z,Combined Upper and Lower GI Tract Diagnostic Endoscopic Procedures,606,940,,1143,,565,610
+FZ64A,Combined Upper and Lower GI Tract Diagnostic Endoscopic Procedures with Biopsy 19 years and over,609,906,,885,,572,602
+FZ64B,Combined Upper and Lower GI Tract Diagnostic Endoscopic Procedures with Biopsy 18 years and under,1740,2144,,557,,1511,1570
+FZ65Z,Combined Upper and Lower GI Tract Therapeutic Endoscopic Procedures,644,976,,1621,,728,632
+FZ66A,Very Major Small Intestine Procedures 19 years and over with CC,7191,6908,279,7264,246,2738,1144
+FZ66B,Very Major Small Intestine Procedures 19 years and over without CC,4709,4603,197,4890,288,2735,1591
+FZ67A,Major Small Intestine Procedures 19 years and over with CC,5273,4532,275,6231,226,1460,761
+FZ67B,Major Small Intestine Procedures 19 years and over without CC,3139,3712,293,4345,274,1395,723
+FZ68C,Very Major or Major Small Intestine Procedures between 2 and 18 years with CC,8141,7741,469,8278,327,2462,1090
+FZ68D,Very Major or Major Small Intestine Procedures between 2 and 18 years without CC,4150,4162,580,4870,274,1675,933
+FZ68E,Very Major or Major Small Intestine Procedures 1 year and under with CC,12136,13397,460,16683,257,2362,1800
+FZ68F,Very Major or Major Small Intestine Procedures 1 year and under without CC,6921,6753,258,8120,347,2275,925
+FZ69A,Complex Small Intestine Procedures 19 years and over,11581,10335,234,11747,226,3348,1404
+FZ69B,Complex Small Intestine Procedures 18 years and under,14617,14619,21,18916,160,5046,
+FZ70Z,Therapeutic Endoscopic Upper GI Tract Procedures 19 years and over,559,923,,861,,614,507
+FZ71A,Endoscopic Insertion of Luminal Stent into GI Tract with length of stay 2 days or more with Major CC,5098,4508,239,4934,218,3856,
+FZ71B,Endoscopic Insertion of Luminal Stent into GI Tract with length of stay 2 days or more without Major CC,3199,2631,279,3278,256,866,
+FZ71C,Endoscopic Insertion of Luminal Stent into GI Tract with length of stay 1 day or less,902,1053,,1667,,837,793
+FZ72Z,Insertion of Spinal Cord Stimulator for Treatment of Faecal Incontinence,3725,12264,323,,,,2228
+FZ73A,Very Complex Large Intestine Procedures with Major CC,11733,11648,251,11704,260,4741,
+FZ73B,Very Complex Large Intestine Procedures without Major CC,7739,7619,411,7909,218,3432,
+FZ74A,Complex Large Intestine Procedures 19 years and over with Major CC,8073,8281,307,7825,297,3174,1610
+FZ74B,Complex Large Intestine Procedures 19 years and over without Major CC,5910,6128,249,5807,271,3038,1482
+FZ75A,Proximal Colon Procedures 19 years and over with Major CC,6354,6197,259,6409,251,3167,
+FZ75B,Proximal Colon Procedures 19 years and over without Major CC,5124,5017,326,5278,253,3202,2057
+FZ76A,Distal Colon Procedures 19 years and over with Major CC,6819,6363,263,7334,328,2785,2202
+FZ76B,Distal Colon Procedures 19 years and over without Major CC,4829,4966,290,5431,280,2048,1704
+FZ77A,Major Large Intestine Procedures 19 years and over with Major CC,4872,4479,357,5360,267,2981,1083
+FZ77B,Major Large Intestine Procedures 19 years and over without Major CC,3078,3264,314,4137,239,2307,1061
+FZ78A,Complex or Major Large Intestine Procedures between 2 and 18 years with CC,8323,7711,369,8526,432,3733,740
+FZ78B,Complex or Major Large Intestine Procedures between 2 and 18 years without CC,5465,5718,263,5759,418,2657,997
+FZ78C,Complex or Major Large Intestine Procedures 1 year and under with CC,9706,7810,232,13229,252,2361,835
+FZ78D,Complex or Major Large Intestine Procedures 1 year and under without CC,6200,5226,555,7886,357,2272,1083
+FZ79A,Complex General Abdominal Procedures with Major CC,10815,12332,229,10230,251,2660,
+FZ79B,Complex General Abdominal Procedures without Major CC,5584,5226,342,5900,242,1905,1433
+FZ80A,Very Complex Oesophageal Stomach or Duodenum Procedures 19 years and over with Major CC,12920,13268,207,11971,263,3987,
+FZ80B,Very Complex Oesophageal Stomach or Duodenum Procedures 19 years and over without Major CC,8678,8708,345,7760,263,3740,
+FZ81A,Complex Oesophageal Stomach or Duodenum Procedures 19 years and over with Major CC,8861,9519,245,8177,245,2837,3303
+FZ81B,Complex Oesophageal Stomach or Duodenum Procedures 19 years and over without Major CC,5529,5644,288,5719,230,3935,1326
+FZ82A,Very Complex or Complex Oesophageal Stomach or Duodenum Procedures 18 years and under with CC,15875,13015,1022,21037,210,4001,
+FZ82B,Very Complex or Complex Oesophageal Stomach or Duodenum Procedures 18 years and under without CC,6537,4926,,9282,391,4096,297
+FZ83A,Major Oesophageal Stomach or Duodenum Procedures 19 years and over with Major CC,4937,4831,233,5023,263,2359,1553
+FZ83B,Major Oesophageal Stomach or Duodenum Procedures 19 years and over without Major CC,2064,3257,267,3254,280,1081,1236
+FZ83C,Major Oesophageal Stomach or Duodenum Procedures between 2 and 18 years with CC,6051,6068,487,6292,140,2076,659
+FZ83D,Major Oesophageal Stomach or Duodenum Procedures between 2 and 18 years without CC,4461,4647,637,6171,325,1985,1781
+FZ83E,Major Oesophageal Stomach or Duodenum Procedures 1 year and under with CC,8693,7124,420,8824,302,3760,2725
+FZ83F,Major Oesophageal Stomach or Duodenum Procedures 1 year and under without CC,4284,4279,795,4089,298,2231,686
+FZ84Z,Stomach Bypass Procedures for Obesity,5410,5346,353,2704,120,912,3355
+FZ85Z,Restrictive Stomach Procedures for Obesity,2473,4005,330,6653,254,1178,392
+FZ86Z,Endoscopic Insertion of Gastric Balloon for Obesity,1542,1748,,3699,,1499,710
+FZ87A,Complex Hernia Procedures with Major CC,4307,4175,288,4907,266,2062,1741
+FZ87B,Complex Hernia Procedures with Intermediate CC,3269,3378,268,3828,251,1747,1405
+FZ87C,Complex Hernia Procedures without CC,2227,2602,316,4034,276,1749,1464
+FZ88A,Insertion of Gastrostomy Tube 19 years and over,810,761,,2700,297,779,544
+FZ88B,Insertion of Gastrostomy Tube 18 years and under,1591,1886,,6491,,929,901
+GA01A,Hepatobiliary Transplant 1 year and under,37494,40098,,39795,146,3010,418
+GA01B,Hepatobiliary Transplant between 2 and 17 years,38537,31928,408,42389,365,,
+GA01C,Hepatobiliary Transplant 18 years and over,18019,17835,199,18343,288,8366,7192
+GA03A,Very Complex Open Hepatobiliary or Pancreatic Procedures with CC,11338,11656,269,9627,284,4031,2129
+GA03B,Very Complex Open Hepatobiliary or Pancreatic Procedures without CC,7881,8400,315,6278,142,1229,1038
+GA04A,Complex Open Hepatobiliary or Pancreatic Procedures with CC,9799,9209,270,12006,206,5793,1010
+GA04B,Complex Open Hepatobiliary or Pancreatic Procedures without CC,7697,7711,386,7083,358,11551,
+GA05A,Very Major Open Hepatobiliary or Pancreatic Procedures with CC,7773,7503,321,7608,282,5690,1152
+GA05B,Very Major Open Hepatobiliary or Pancreatic Procedures without CC,6310,6522,437,6200,264,5572,988
+GA06A,Major Open Hepatobiliary or Pancreatic Procedures with CC,5599,5378,353,6916,203,1140,889
+GA06B,Major Open Hepatobiliary or Pancreatic Procedures without CC,3305,4487,414,4311,393,902,858
+GA07A,Intermediate Open Hepatobiliary or Pancreatic Procedures with CC,4624,4668,410,5158,284,1611,1516
+GA07B,Intermediate Open Hepatobiliary or Pancreatic Procedures without CC,3303,3581,295,4206,222,1736,1601
+GA10C,Open Cholecystectomy 19 years and over without CC,3171,3322,356,3920,309,1601,1746
+GA10D,Laparoscopic Cholecystectomy 19 years and over with length of stay 1 day or more without CC,2506,2343,290,3067,311,1880,2452
+GA10E,Laparoscopic Cholecystectomy 19 years and over with length of stay 0 days without CC,1695,1931,,1433,,1057,1670
+GA10F,Open or Laparoscopic Cholecystectomy 19 years and over with CC,2972,2877,281,4092,268,2036,1759
+GA10G,Open or Laparoscopic Cholecystectomy 18 years and under,2624,2935,467,3098,399,1642,1635
+GA11Z,Pancreatic Necrosectomy,16177,7983,,17425,248,14439,
+GA12Z,Multi-Organ and Multiple Transplants,28739,44462,161,25701,294,6751,5586
+GA13A,Minor Open or Laparoscopic Hepatobiliary or Pancreatic Procedures with CC,2732,2875,344,3511,290,1264,1239
+GA13B,Minor Open or Laparoscopic Hepatobiliary or Pancreatic Procedures without CC,2095,2436,435,2896,234,989,1150
+GB01A,Very Major Endoscopic or Percutaneous Hepatobiliary or Pancreatic Procedures with Major CC,7040,5429,112,7802,206,1327,1046
+GB01B,Very Major Endoscopic or Percutaneous Hepatobiliary or Pancreatic Procedures without Major CC,3701,2877,182,4818,229,774,693
+GB02A,Major Endoscopic or Percutaneous Hepatobiliary or Pancreatic Procedures with Major CC,5467,4036,269,6547,338,1765,564
+GB02B,Major Endoscopic or Percutaneous Hepatobiliary or Pancreatic Procedures with Intermediate CC,2919,2846,312,4179,260,1299,599
+GB02C,Major Endoscopic or Percutaneous Hepatobiliary or Pancreatic Procedures without CC,2259,2897,284,3632,247,592,687
+GB03A,Intermediate Endoscopic or Percutaneous Hepatobiliary or Pancreatic Procedures with CC,1809,2416,506,2979,246,745,575
+GB03B,Intermediate Endoscopic or Percutaneous Hepatobiliary or Pancreatic Procedures without CC,731,1273,298,1946,184,500,468
+GB04D,Minor Endoscopic or Percutaneous Hepatobiliary or Pancreatic Procedures 19 years and over,584,706,,3200,,593,547
+GB04E,Minor Endoscopic or Percutaneous Hepatobiliary or Pancreatic Procedures 18 years and under,2107,3176,,,,1020,1718
+GB05C,Major Therapeutic Endoscopic Retrograde Cholangiopancreatography with length of stay 3 days or more with Major CC,6951,6718,,7008,238,1241,1470
+GB05D,Major Therapeutic Endoscopic Retrograde Cholangiopancreatography with length of stay 3 days or more without Major CC,4378,4562,208,4213,248,542,
+GB05E,Major Therapeutic Endoscopic Retrograde Cholangiopancreatography with length of stay 2 days or less,998,1314,,1479,,788,823
+GB06A,Intermediate Therapeutic Endoscopic Retrograde Cholangiopancreatography with length of stay 3 days or more with Major CC,5097,4789,156,4890,251,,
+GB06B,Intermediate Therapeutic Endoscopic Retrograde Cholangiopancreatography with length of stay 3 days or more with Intermediate CC,3539,3261,284,3443,234,326,
+GB06C,Intermediate Therapeutic Endoscopic Retrograde Cholangiopancreatography with length of stay 3 days or more without C,3110,2882,266,3083,232,3690,
+GB06D,Intermediate Therapeutic Endoscopic Retrograde Cholangiopancreatography with length of stay 2 days or less,839,1098,,1234,,620,756
+GB07Z,Minor Diagnostic Endoscopic Retrograde Cholangiopancreatography,735,975,,1024,,556,696
+GB08A,Complex Endoscopic or Percutaneous Hepatobiliary or Pancreatic Procedures with Major CC,11324,11268,277,11645,141,2114,
+GB08B,Complex Endoscopic or Percutaneous Hepatobiliary or Pancreatic Procedures without Major CC,7773,6872,293,8338,242,,881
+GB09A,Complex Therapeutic Endoscopic Retrograde Cholangiopancreatography with length of stay 3 days or more with Major CC,6952,7386,,6367,375,,
+GB09B,Complex Therapeutic Endoscopic Retrograde Cholangiopancreatography with length of stay 3 days or more without Major CC,4219,4621,491,3898,369,,
+GB09C,Complex Therapeutic Endoscopic Retrograde Cholangiopancreatography with length of stay 2 days or less,979,1222,,2362,,725,748
+GC01A,Liver Failure Disorders with Interventions,3640,3726,157,3484,198,1138,380
+GC01B,Liver Failure Disorders without Interventions,1599,2009,196,2028,234,523,546
+GC12A,Malignant Liver or Pancreatic Disorders with length of stay 2 days or more,2755,2697,258,2604,230,808,
+GC12B,Malignant Liver or Pancreatic Disorders with length of stay 1 day or less,585,916,,2055,,532,391
+GC15A,Non-Malignant Liver Disorders with Catastrophic CCs,3789,4489,290,3988,256,697,225
+GC15B,Non-Malignant Liver Disorders with Severe CCs,2732,2774,294,3084,213,542,275
+GC15C,Non-Malignant Liver Disorders with Major CCs,2084,2276,218,2421,220,584,431
+GC15D,Non-Malignant Liver Disorders without Major CCs,1313,1468,248,1795,227,503,458
+GC16A,Non-Malignant Pancreatic or Biliary Disorders with Catastrophic CCs,3756,4241,282,4055,241,642,181
+GC16B,Non-Malignant Pancreatic or Biliary Disorders with Severe CCs,2537,2256,248,2829,227,560,559
+GC16C,Non-Malignant Pancreatic or Biliary Disorders with Major CCs,1662,1555,291,1992,231,491,458
+GC16D,Non-Malignant Pancreatic or Biliary Disorders without Major CCs,1215,1186,276,1591,247,483,543
+HA11A,Major Hip Procedures for Trauma Category 2 with Major CC,13600,10951,239,13660,205,6855,
+HA11B,Major Hip Procedures for Trauma Category 2 with Intermediate CC,8297,9194,,8115,247,3593,
+HA11C,Major Hip Procedures for Trauma Category 2 without CC,7477,6427,170,7486,245,3436,
+HA12B,Major Hip Procedures for Trauma Category 1 with CC,8087,7943,237,8075,250,2819,2750
+HA12C,Major Hip Procedures for Trauma Category 1 without CC,6317,6027,337,6372,231,2503,1231
+HA13A,Intermediate Hip Procedures for Trauma with Major CC,8233,8888,145,8203,262,2495,
+HA13B,Intermediate Hip Procedures for Trauma with Intermediate CC,6101,6183,450,6167,254,2262,1947
+HA13C,Intermediate Hip Procedures for Trauma without CC,5603,4875,63,5668,246,2185,1602
+HA14A,Minor Hip Procedures for Trauma with Major CC,7973,7565,364,8441,235,1447,1154
+HA14B,Minor Hip Procedures for Trauma with Intermediate CC,4012,3927,387,4631,201,1431,703
+HA14C,Minor Hip Procedures for Trauma without CC,3696,3836,287,3839,305,1885,1210
+HA19Z,Minimal Hip Procedures for Trauma with length of stay 1 day or less,2993,964,,9099,424,870,732
+HA21B,Major Knee Procedures for Trauma Category 2 with CC,9256,7797,,9263,229,2430,261
+HA21C,Major Knee Procedures for Trauma Category 2 without CC,5145,4221,201,5376,282,2407,2168
+HA22B,Major Knee Procedures for Trauma Category 1 with CC,9014,5825,,9187,225,2730,1420
+HA22C,Major Knee Procedures for Trauma Category 1 without CC,4362,3527,184,4957,247,1984,1860
+HA23B,Intermediate Knee Procedures for Trauma Category 2 with CC,6661,4154,,7194,262,1953,1614
+HA23C,Intermediate Knee Procedures for Trauma Category 2 without CC,3076,2953,295,3829,267,1985,1639
+HA24Z,Intermediate Knee Procedures for Trauma Category 1,6247,5893,283,6891,202,1810,1525
+HA25B,Minor Knee Procedures for Trauma Category 2 with CC,4504,5083,,5155,243,1003,1898
+HA25C,Minor Knee Procedures for Trauma Category 2 without CC,2902,2962,223,3973,341,1422,1440
+HA26B,Minor Knee Procedures for Trauma Category 1 with CC,6967,11581,,4679,,539,1091
+HA26C,Minor Knee Procedures for Trauma Category 1 without CC,2299,3391,558,3258,204,1143,1268
+HA29Z,Minimal Knee Procedures for Trauma with length of stay 1 day or less,691,1075,,1138,,667,580
+HA31B,Major Foot Procedures for Trauma with CC,5969,3769,181,6185,242,2089,1941
+HA31C,Major Foot Procedures for Trauma without CC,3667,3124,278,4071,300,2204,1528
+HA32Z,Intermediate Foot Procedures for Trauma Category 2,5031,3766,125,5525,254,2540,1930
+HA33Z,Intermediate Foot Procedures for Trauma Category 1,3880,3082,302,4113,267,2250,1859
+HA34Z,Minor Foot Procedures for Trauma Category 2,3603,2813,205,4095,268,2022,1614
+HA35Z,Minor Foot Procedures for Trauma Category 1,2445,2137,378,2577,260,1171,1976
+HA39Z,Minimal Foot Procedures for Trauma with length of stay 1 day or less,646,984,,487,,627,901
+HA51Z,Major Hand Procedures for Trauma Category 2,2008,2419,196,2716,312,1728,1674
+HA52Z,Major Hand Procedures for Trauma Category 1,2222,2443,203,3509,310,1696,1622
+HA53Z,Intermediate Hand Procedures for Trauma Category 2,1965,2051,272,2508,313,1774,1884
+HA54Z,Intermediate Hand Procedures for Trauma Category 1,1641,1813,412,2186,312,1458,1409
+HA55Z,Minor Hand Procedures for Trauma Category 2,1697,2046,244,2209,323,1500,1496
+HA56A,Minor Hand Procedures for Trauma Category 1 19 years and over,1457,1572,241,2001,278,1276,1231
+HA56B,Minor Hand Procedures for Trauma Category 1 18 years and under,1248,1346,400,1774,276,1193,1130
+HA59Z,Minimal Hand Procedures for Trauma with length of stay 1 day or less,615,796,,375,,596,869
+HA61B,Major Shoulder and Upper Arm Procedures for Trauma with CC,5850,4592,375,6418,259,3051,1930
+HA61C,Major Shoulder and Upper Arm Procedures for Trauma without CC,3501,3449,348,3997,273,2704,2405
+HA62Z,Intermediate Shoulder and Upper Arm Procedures for Trauma,3013,3352,442,3335,282,1992,1793
+HA63Z,Minor Shoulder and Upper Arm Procedures for Trauma,1936,2713,344,2247,239,1159,1724
+HA69Z,Minimal Shoulder and Upper Arm Procedures for Trauma with length of stay 1 day or less,589,650,,946,,574,642
+HA71B,Major Elbow and Lower Arm Procedures for Trauma with CC,4003,3368,268,4494,256,2341,2096
+HA71C,Major Elbow and Lower Arm Procedures for Trauma without CC,2747,2763,319,3241,303,2251,1972
+HA72Z,Intermediate Elbow and Lower Arm Procedures for Trauma,2338,2611,257,2999,266,1789,1593
+HA73B,Minor Elbow and Lower Arm Procedures for Trauma 18 years and under,1409,1316,203,1799,161,1365,1155
+HA73C,Minor Elbow and Lower Arm Procedures for Trauma 19 years and over,1503,1983,278,1860,280,946,1375
+HA79Z,Minimal Elbow and Lower Arm Procedures for Trauma with length of stay 1 day or less,628,1222,,769,,607,786
+HA81A,Sprains Strains or Minor Open Wounds with Major CC,1724,2438,274,2230,221,517,395
+HA81B,Sprains Strains or Minor Open Wounds with Intermediate CC,1056,1338,220,1514,262,436,620
+HA81C,Sprains Strains or Minor Open Wounds without CC,815,1069,275,1299,232,452,545
+HA83A,Head Injury with Major CC,1282,1242,289,1761,220,451,548
+HA83B,Head Injury with Intermediate CC,728,1253,248,1118,228,441,414
+HA83C,Head Injury without CC,574,1391,189,1108,220,413,522
+HA91Z,Hip Trauma Diagnosis without Procedure,3014,5819,279,3702,221,684,505
+HA92Z,Knee Trauma Diagnosis without Procedure,2789,2867,284,3347,225,608,447
+HA93Z,Foot Trauma Diagnosis without Procedure,1793,1676,273,2137,235,556,656
+HA94Z,Arm Trauma Diagnosis without Procedure,1510,1412,274,2074,228,515,533
+HA95Z,Hand Trauma Diagnosis without Procedure,1028,977,276,1270,238,642,788
+HA96Z,Multiple Trauma Diagnoses without Procedure,2770,4431,289,3402,251,558,344
+HA97Z,Other Trauma Diagnosis without Procedure,1367,2518,331,1846,226,472,527
+HA99Z,Other Procedures for Trauma,2415,4329,261,5809,244,1944,1151
+HB11A,Major Hip Procedures for Non-Trauma Category 2 with Major CC,11736,10456,224,13386,240,4470,397
+HB11B,Major Hip Procedures for Non-Trauma Category 2 with Intermediate CC,6643,6393,307,8038,325,2217,3536
+HB11C,Major Hip Procedures for Non-Trauma Category 2 without CC,6412,6258,304,7293,300,2181,2391
+HB12A,Major Hip Procedures for Non-Trauma Category 1 with Major CC,8830,8343,325,9058,248,2566,3296
+HB12B,Major Hip Procedures for Non-Trauma Category 1 with Intermediate CC,6583,6504,310,6228,275,2517,1933
+HB12C,Major Hip Procedures for Non-Trauma Category 1 without CC,5958,5942,295,5569,271,2136,2139
+HB13Z,Intermediate Hip Procedures for Non-Trauma Category 2,4492,4206,334,6099,316,1824,1377
+HB14B,Intermediate Hip Procedures for Non-Trauma Category 1 with CC,4834,5261,394,5214,270,1461,1232
+HB14C,Intermediate Hip Procedures for Non-Trauma Category 1 without CC,2453,3433,276,2968,282,1419,1259
+HB15D,Minor Hip Procedures for Non-Trauma Category 2 19 years and over with CC,4902,4800,264,6447,211,1775,1030
+HB15E,Minor Hip Procedures for Non-Trauma Category 2 19 years and over without CC,1574,2509,345,3028,268,1115,939
+HB15F,Minor Hip Procedures for Non-Trauma Category 2 18 years and under with CC,4700,3057,,11825,435,735,1349
+HB15G,Minor Hip Procedures for Non-Trauma Category 2 18 years and under without CC,2072,2637,297,3630,430,1400,1294
+HB16B,Minor Hip Procedures for Non-Trauma Category 1 with CC,5239,5002,403,7183,251,4272,810
+HB16C,Minor Hip Procedures for Non-Trauma Category 1 without CC,1429,2315,307,3994,270,1081,914
+HB19Z,Minimal Hip Procedures for Non-Trauma with length of stay 1 day or less,694,1319,,4648,,921,760
+HB21A,Major Knee Procedures for Non-Trauma Category 2 with Major CC,8188,7880,329,9621,283,2716,2402
+HB21B,Major Knee Procedures for Non-Trauma Category 2 with CC,6164,6101,292,6041,269,373,1782
+HB21C,Major Knee Procedures for Non-Trauma Category 2 without CC,5761,5740,316,5991,265,938,2478
+HB22B,Major Knee Procedures for Non-Trauma Category 1 with CC,4812,5274,268,10307,234,2588,1463
+HB22C,Major Knee Procedures for Non-Trauma Category 1 without CC,2130,2691,372,3081,319,1415,1533
+HB23B,Intermediate Knee Procedures for Non-Trauma with CC,2900,3214,256,5201,245,1236,1329
+HB23C,Intermediate Knee Procedures for Non-Trauma without CC,1593,2373,318,2654,275,1503,1349
+HB24B,Minor Knee Procedures for Non-Trauma Category 2 with CC,3325,3463,252,4162,249,769,1153
+HB24C,Minor Knee Procedures for Non-Trauma Category 2 without CC,1483,2177,345,2032,243,718,1220
+HB25D,Minor Knee Procedures for Non-Trauma Category 1 19 years and over with Major CC,5331,5306,212,5925,201,1405,1151
+HB25E,Minor Knee Procedures for Non-Trauma Category 1 19 years and over with Intermediate CC,2080,2285,167,3437,310,1436,1239
+HB25F,Minor Knee Procedures for Non-Trauma Category 1 19 years and over without CC,1531,2224,348,2662,278,1328,1293
+HB25G,Minor Knee Procedures for Non-Trauma Category 1 18 years and under with Major CC,5096,3651,,5962,200,1960,1166
+HB25H,Minor Knee Procedures for Non-Trauma Category 1 18 years and under with Intermediate CC,2613,2946,,,,1005,2276
+HB25J,Minor Knee Procedures for Non-Trauma Category 1 18 years and under without CC,1492,2134,354,3243,357,1499,1480
+HB29Z,Minimal Knee Procedures for Non-Trauma with length of stay 1 day or less,417,1107,,1659,,567,635
+HB31Z,Major Foot Procedures for Non-Trauma,3466,3996,312,4179,282,2581,1609
+HB32A,Intermediate Foot Procedures for Non-Trauma Category 2 19 years and over,2469,3024,306,4288,303,1820,1667
+HB32B,Intermediate Foot Procedures for Non-Trauma Category 2 18 years and under,3003,3506,399,5132,687,2346,1544
+HB33D,Intermediate Foot Procedures for Non-Trauma Category 1 19 years and over with CC,3640,3178,284,5895,254,1337,1559
+HB33E,Intermediate Foot Procedures for Non-Trauma Category 1 19 years and over without CC,1804,2245,337,2222,287,1879,1516
+HB33F,Intermediate Foot Procedures for Non-Trauma Category 1 18 years and under with CC,3980,3466,432,6843,447,1290,1174
+HB33G,Intermediate Foot Procedures for Non-Trauma Category 1 18 years and under without CC,2117,2603,409,3154,394,1900,1499
+HB34D,Minor Foot Procedures for Non-Trauma Category 2 19 years and over with CC,3203,3080,242,5191,252,1342,1340
+HB34E,Minor Foot Procedures for Non-Trauma Category 2 19 years and over without CC,1459,2084,319,2720,250,1276,1284
+HB34F,Minor Foot Procedures for Non-Trauma Category 2 18 years and under with CC,2884,2868,146,5529,337,396,1206
+HB34G,Minor Foot Procedures for Non-Trauma Category 2 18 years and under without CC,1404,2068,420,2973,480,1290,1291
+HB35B,Minor Foot Procedures for Non-Trauma Category 1 with CC,3615,3165,519,4848,264,757,1254
+HB35C,Minor Foot Procedures for Non-Trauma Category 1 without CC,868,1920,450,1266,301,889,792
+HB39Z,Minimal Foot Procedures for Non-Trauma with length of stay 1 day or less,660,1154,,251,,600,794
+HB51Z,Major Hand Procedures for Non-Trauma Category 2,2060,2519,397,3961,311,2874,1758
+HB52B,Major Hand Procedures for Non-Trauma Category 1 with CC,2722,2812,243,4742,374,2240,1792
+HB52C,Major Hand Procedures for Non-Trauma Category 1 without CC,2271,2550,440,5688,591,2155,1795
+HB53Z,Intermediate Hand Procedures for Non-Trauma Category 2,1795,2341,420,2706,382,1554,1553
+HB54B,Intermediate Hand Procedures for Non-Trauma Category 1 with CC,2652,2890,493,4884,283,1007,1236
+HB54C,Intermediate Hand Procedures for Non-Trauma Category 1 without CC,1594,2279,298,2844,327,1425,1336
+HB55B,Minor Hand Procedures for Non-Trauma Category 2 with CC,1361,2214,287,3182,258,934,985
+HB55C,Minor Hand Procedures for Non-Trauma Category 2 without CC,1128,1808,359,2052,283,1171,1061
+HB56B,Minor Hand Procedures for Non-Trauma Category 1 with CC,2422,2781,374,3900,210,946,1112
+HB56C,Minor Hand Procedures for Non-Trauma Category 1 without CC,1182,1810,250,2239,264,1274,1121
+HB59Z,Minimal Hand Procedures for Non-Trauma with length of stay 1 day or less,478,838,,573,,573,663
+HB61B,Major Shoulder and Upper Arm Procedures for Non-Trauma with CC,3369,3496,331,5484,233,2454,2197
+HB61C,Major Shoulder and Upper Arm Procedures for Non-Trauma without CC,2632,2840,375,3192,375,2408,2092
+HB62B,Intermediate Shoulder and Upper Arm Procedures for Non-Trauma with CC,2383,2403,304,3661,298,1819,1450
+HB62C,Intermediate Shoulder and Upper Arm Procedures for Non-Trauma without CC,1708,2116,291,2823,268,1362,1485
+HB63Z,Minor Shoulder and Upper Arm Procedures for Non-Trauma,1543,2088,324,2478,266,973,1183
+HB69Z,Minimal Shoulder and Upper Arm Procedures for Non-Trauma with length of stay 1 day or less,323,1046,,1734,,561,561
+HB71B,Major Elbow and Lower Arm Procedures for Non-Trauma with CC,5377,5058,267,7187,293,1138,1937
+HB71C,Major Elbow and Lower Arm Procedures for Non-Trauma without CC,3131,3853,304,3470,285,2220,1943
+HB72Z,Intermediate Elbow and Lower Arm Procedures for Non-Trauma,1857,2324,396,3654,314,1521,1484
+HB73Z,Minor Elbow and Lower Arm Procedures for Non-Trauma,1465,2065,302,2533,256,1109,1284
+HB79Z,Minimal Elbow and Lower Arm Procedures for Non-Trauma with length of stay 1 day or less,315,895,,719,,549,692
+HB91Z,Other Non-Trauma Diagnosis without Procedure,2262,2688,261,2949,230,603,603
+HB99Z,Other Procedures for Non-Trauma,714,3556,293,4995,281,1289,928
+HC01Z,Extradural Spine Major 2,7847,7096,346,9379,313,5939,1890
+HC02B,Extradural Spine Major 1 with CC,9473,7746,286,10240,313,5551,3294
+HC02C,Extradural Spine Major 1 without CC,5977,5643,318,7028,274,3054,2747
+HC03B,Extradural Spine Intermediate 2 with CC,7625,6059,324,9573,327,2797,1722
+HC03C,Extradural Spine Intermediate 2 without CC,4983,4657,316,6237,312,3508,2019
+HC04B,Extradural Spine Intermediate 1 with CC,5839,4937,257,6893,278,3073,1541
+HC04C,Extradural Spine Intermediate 1 without CC,4039,3880,399,5051,292,2961,1526
+HC05B,Extradural Spine Minor 2 with CC,4537,3494,,7718,222,1317,885
+HC05C,Extradural Spine Minor 2 without CC,2037,2519,285,4644,278,1128,891
+HC06Z,Extradural Spine Minor 1,892,1659,347,3296,318,969,734
+HC07Z,Intradural Spine Major,7342,7097,372,8958,305,2616,956
+HC09Z,Intradural Spine Intermediate 2,6583,6731,,13532,276,,724
+HC10Z,Intradural Spine Intermediate 1,5194,4739,367,7816,169,1307,1407
+HC11Z,Intradural Spine Minor 2,4121,4618,401,5270,329,1770,965
+HC12Z,Intradural Spine Minor 1,843,1415,347,1560,296,640,682
+HC20B,Vertebral Column Injury without Procedure with CC,3426,3860,244,4020,252,566,468
+HC20C,Vertebral Column Injury without Procedure without CC,2192,3178,260,2653,241,579,524
+HC21B,Spinal Cord Injury without Procedure with CC,14089,12247,,17520,205,997,
+HC21C,Spinal Cord Injury without Procedure without CC,5146,3360,383,5181,338,1138,397
+HC26B,Scoliosis or Other Spinal Deformity with CC,2217,2645,95,3243,250,529,686
+HC26C,Scoliosis or Other Spinal Deformity without CC,1054,1818,252,2332,223,448,667
+HC27B,Degenerative Spinal Conditions with CC,1585,2204,238,2469,223,473,630
+HC27C,Degenerative Spinal Conditions without CC,894,1503,244,1781,240,468,599
+HC28B,Spinal Cord Conditions with CC,5726,4997,188,6047,288,858,583
+HC28C,Spinal Cord Conditions without CC,2563,2761,290,3315,274,818,733
+HC29Z,Inflammatory Spinal Conditions,881,3188,330,2240,268,520,457
+HC30B,Spinal Tumours with CC,4411,5260,326,4854,227,694,474
+HC30C,Spinal Tumours without CC,2920,2612,344,3621,245,737,520
+HC31B,Spinal Infection with CC,5919,6735,223,6549,247,580,602
+HC31C,Spinal Infection without CC,2671,3120,200,4272,215,714,392
+HC32B,Low Back Pain with CC,1290,2318,318,1906,241,456,438
+HC32C,Low Back Pain without CC,816,1325,129,1469,240,460,457
+HD21A,Soft Tissue Disorders with Major CC,1331,2019,243,1913,222,426,396
+HD21B,Soft Tissue Disorders with Intermediate CC,611,1055,218,1074,246,393,471
+HD21C,Soft Tissue Disorders without CC,494,879,245,755,268,382,492
+HD23A,Inflammatory Spine Joint or Connective Tissue Disorders with Major CC,2081,3875,489,2738,225,493,519
+HD23B,Inflammatory Spine Joint or Connective Tissue Disorders with Intermediate CC,704,1916,335,1808,254,451,448
+HD23C,Inflammatory Spine Joint or Connective Tissue Disorders without CC,526,1472,335,1654,284,464,441
+HD24A,Non-Inflammatory Bone or Joint Disorders with Major CC,2611,3562,310,3392,231,500,417
+HD24B,Non-Inflammatory Bone or Joint Disorders with Intermediate CC,907,1915,278,2015,233,450,384
+HD24C,Non-Inflammatory Bone or Joint Disorders without CC,514,1460,276,1419,226,457,361
+HD25A,Infections of Bones or Joints with Major CC,3460,4073,227,4068,247,585,456
+HD25B,Infections of Bones or Joints with Intermediate CC,1772,3059,279,2687,240,528,475
+HD25C,Infections of Bones or Joints without CC,1386,2314,234,2424,234,500,318
+HD26A,Musculoskeletal Signs and Symptoms with Major CC,1634,2692,302,2330,224,467,457
+HD26B,Musculoskeletal Signs and Symptoms with Intermediate CC,878,1401,262,1369,236,414,556
+HD26C,Musculoskeletal Signs and Symptoms without CC,607,947,258,1183,255,396,518
+HD39A,Pathological Fractures with Major CC,3295,4869,288,3888,229,568,355
+HD39B,Pathological Fractures with Intermediate CC,1440,1765,316,2610,223,495,398
+HD39C,Pathological Fractures without CC,646,1511,,2255,371,517,357
+HD40A,Malignancy of Bone or Connective Tissue with Major CC,3031,3771,292,3729,262,604,325
+HD40B,Malignancy of Bone or Connective Tissue with Intermediate CC,755,1932,217,2297,256,539,330
+HD40C,Malignancy of Bone or Connective Tissue without CC,594,1964,193,2335,173,504,338
+HR01B,Reconstruction Procedures Category 6 with CC,20400,20070,312,17960,293,6829,
+HR01C,Reconstruction Procedures Category 6 without CC,16130,16180,317,12431,272,5790,2490
+HR02Z,Reconstruction Procedures Category 5,9254,9176,381,10129,363,3366,5079
+HR03Z,Reconstruction Procedures Category 4,11062,9293,300,10823,256,2595,1223
+HR04B,Reconstruction Procedures Category 3 with CC,12080,10963,291,12975,257,3785,1116
+HR04C,Reconstruction Procedures Category 3 without CC,8492,8327,303,9568,311,4437,1491
+HR05Z,Reconstruction Procedures Category 2,7340,6734,331,9183,279,4168,2236
+HR06A,Reconstruction Procedures Category 1 19 years and over,4587,4492,322,5465,282,2823,2166
+HR06B,Reconstruction Procedures Category 1 18 years and under,3900,4496,428,3953,387,2339,2287
+JA12A,Malignant Breast Disorders with Major CC,1860,2078,319,3070,249,536,477
+JA12B,Malignant Breast Disorders with Intermediate CC,537,1244,249,1892,253,550,388
+JA12C,Malignant Breast Disorders without CC,490,1321,160,1767,252,371,435
+JA13Z,Non-Malignant Breast Disorders,922,2057,297,1529,262,464,248
+JA14Z,Free Perforator Flap Breast Reconstruction,5996,8861,433,10034,419,2827,1326
+JA18A,Unilateral Minor Breast Procedures with Major CC,2767,2646,498,3658,237,868,860
+JA18B,Unilateral Minor Breast Procedures with Intermediate CC,1405,1677,211,2096,281,912,847
+JA18C,Unilateral Minor Breast Procedures without CC,269,1648,250,1595,259,751,710
+JA19Z,Bilateral Minor Breast Procedures,686,1700,,2397,254,412,697
+JA20A,Unilateral Major Breast Procedures with Major CC,2813,2950,382,4875,267,1310,1552
+JA20B,Unilateral Major Breast Procedures with Intermediate CC,2500,2767,403,3643,468,1486,1621
+JA20C,Unilateral Major Breast Procedures without CC,2166,2628,355,2932,264,1312,1603
+JA21A,Bilateral Major Breast Procedures with CC,3459,3518,253,4191,228,1199,1699
+JA21B,Bilateral Major Breast Procedures without CC,3033,3144,313,4305,327,1303,1732
+JA24A,Unilateral Intermediate Breast Procedures with Major CC,2660,2394,261,4398,255,1194,1249
+JA24B,Unilateral Intermediate Breast Procedures with Intermediate CC,1711,2132,320,2318,317,964,1313
+JA24C,Unilateral Intermediate Breast Procedures without CC,1293,1984,403,2304,411,977,1273
+JA25Z,Bilateral Intermediate Breast Procedures,1785,2158,279,3023,276,1121,1407
+JA26Z,Major Breast Procedures with Lymph Node Surgery,3425,3468,261,3898,286,837,2221
+JA27Z,Mastectomy with Simple Breast Reconstruction,6860,6867,943,6197,235,,1241
+JA28Z,Mastectomy with Complex Breast Reconstruction,10184,10149,323,2624,,,
+JA30Z,Unilateral Pedicled Myocutaneous Breast Reconstruction with or without Insertion of Prosthesis,5017,5244,260,7778,,,1588
+JA31Z,Bilateral Pedicled Myocutaneous Breast Reconstruction with or without Insertion of Prosthesis,4947,5398,,,,,1275
+JB01A,Major Burn with Significant Graft,11542,14936,,17152,534,1360,2606
+JB01B,Major Burn transferred in 2 days or less,695,5394,,1590,,470,501
+JB01C,Major Burn without Significant Graft,3823,,,3777,216,,
+JB11A,Other Burn with Multiple Significant Graft Procedures with Major CC,19414,7584,,20582,441,,1508
+JB11B,Other Burn with Multiple Significant Graft Procedures without Major CC,11282,6494,,12879,534,,1937
+JB12A,Other Burn with One Significant Graft Procedure with Major CC,12335,7943,757,14851,544,2261,1807
+JB12B,Other Burn with One Significant Graft Procedure without Major CC,5071,3736,481,8046,583,2127,1735
+JB13A,Other Burn with Other Procedure with Major CC,4869,3653,303,7605,435,1176,1043
+JB13B,Other Burn with Other Procedure without Major CC,779,2168,435,2870,554,1049,1153
+JB21A,Other Burn without Other Procedure with Major CC,2807,5260,514,3829,295,585,872
+JB21B,Other Burn without Other Procedure without Major CC,1129,1028,409,1749,516,636,688
+JC01A,Major Multiple Skin Procedures with Major CC,9618,9080,241,9795,254,4113,1033
+JC01B,Major Multiple Skin Procedures with Intermediate CC,5309,6148,190,6255,265,2429,733
+JC01C,Major Multiple Skin Procedures without CC,1323,4635,268,4642,244,1414,711
+JC02A,Major Skin Procedures Category 2 with Major CC,6191,5651,274,7355,349,1798,1256
+JC02B,Major Skin Procedures Category 2 with Intermediate CC,4134,4123,339,5102,262,2096,779
+JC02C,Major Skin Procedures Category 2 without CC,2934,3701,305,4721,371,1521,791
+JC03A,Major Skin Procedures Category 1 with Major CC,5700,5611,255,5886,264,1424,900
+JC03B,Major Skin Procedures Category 1 with Intermediate CC,2794,3777,319,3582,267,1254,876
+JC03C,Major Skin Procedures Category 1 without CC,1328,3151,306,2484,310,1289,737
+JC04A,Intermediate Skin Procedures Category 2 with Major CC,2973,3522,322,3711,239,801,792
+JC04B,Intermediate Skin Procedures Category 2 with Intermediate CC,1675,2557,294,2525,282,769,822
+JC04C,Intermediate Skin Procedures Category 2 without CC,733,2311,344,2165,322,984,722
+JC05A,Intermediate Skin Procedures Category 1 with Major CC,1008,1517,,1097,,972,840
+JC05B,Intermediate Skin Procedures Category 1 with Intermediate CC,1016,1636,,1096,,883,897
+JC05C,Intermediate Skin Procedures Category 1 without CC,498,1669,,1246,,942,809
+JC06A,Minor Skin Procedures Category 2 with Major CC,1050,1482,,2401,,921,338
+JC06B,Minor Skin Procedures Category 2 with Intermediate CC,1053,1484,,1517,,1073,388
+JC06C,Minor Skin Procedures Category 2 without CC,1174,1466,,1285,,1267,491
+JC07Z,Minor Skin Procedures Category 1,833,1709,,904,,849,614
+JC09Z,Patch Tests,111,261,,,,60,371
+JC10Z,Specified Skin Examinations and Investigations,171,902,,,,353,283
+JC11Z,Other Diagnostic Skin Tests,195,707,,,,379,486
+JC12Z,Urticaria Tests,310,713,,,,616,551
+JC13Z,Photo Tests,110,,,,,,662
+JC14Z,Skin Therapies Level 2,177,1149,,803,,807,913
+JC15Z,Skin Therapies Level 3,398,1255,,903,,816,664
+JC16Z,Skin Therapies Level 4,862,1265,,764,,982,908
+JC17Z,Skin Therapies Level 5,1053,1652,,1366,,1155,1086
+JC18Z,Electrical and Other Invasive Therapy Level 2,141,1482,,1271,,644,500
+JC19D,Electrical and Other Invasive Therapy Level 4 19 years and over,167,1405,,,,,440
+JC19U,Electrical and Other Invasive Therapy Level 4 18 years and under,345,963,,,,,628
+JC20Z,Electrical and Other Invasive Therapy Level 3,95,2503,,,,715,1726
+JC27Z,Nursing Procedures or Dressings,129,1017,,633,,495,397
+JC33Z,Photochemotherapy,105,,,37,,419,174
+JC34Z,Phototherapy,92,644,,2069,,787,263
+JD01A,Major Skin Disorders Category 2 with Major CC,2941,4673,269,3456,223,533,375
+JD01B,Major Skin Disorders Category 2 with Intermediate CC,1852,3496,247,2494,233,500,600
+JD01C,Major Skin Disorders Category 2 without CC,1449,3146,262,2191,194,399,413
+JD02A,Major Skin Disorders Category 1 with Major CC,3067,3933,308,3873,214,529,771
+JD02B,Major Skin Disorders Category 1 with Intermediate CC,2251,4524,200,3107,200,520,434
+JD02C,Major Skin Disorders Category 1 without CC,1043,1986,258,2912,504,559,348
+JD03A,Intermediate Skin Disorders Category 2 with Major CC,1887,2933,247,2383,218,475,576
+JD03B,Intermediate Skin Disorders Category 2 with Intermediate CC,1122,2409,261,1601,236,421,401
+JD03C,Intermediate Skin Disorders Category 2 without CC,879,2409,327,1383,248,411,438
+JD04A,Intermediate Skin Disorders Category 1 with Major CC,1867,3129,305,2255,228,496,429
+JD04B,Intermediate Skin Disorders Category 1 with Intermediate CC,1251,2660,249,1729,258,450,442
+JD04C,Intermediate Skin Disorders Category 1 without CC,911,2375,330,1509,311,476,544
+JD05A,Minor Skin Disorders Category 2 with Major CC,1264,2474,346,1859,260,435,807
+JD05B,Minor Skin Disorders Category 2 with Intermediate CC,800,2345,352,1274,235,402,360
+JD05C,Minor Skin Disorders Category 2 without CC,685,2071,370,1254,314,380,356
+JD06A,Minor Skin Disorders Category 1 with CC,1179,2498,324,1892,248,434,459
+JD06B,Minor Skin Disorders Category 1 without CC,666,1961,270,1288,356,418,424
+KA03A,Parathyroid Procedures with CC,2793,2648,276,3431,254,1660,1705
+KA03B,Parathyroid Procedures without CC,2307,2365,210,3254,421,1216,1749
+KA04Z,Adrenal Procedures,4554,4947,307,5301,306,1212,822
+KA05A,Anterior Pituitary Disorders with CC,896,1950,182,2614,229,452,521
+KA05B,Anterior Pituitary Disorders without CC,690,1197,245,1511,219,432,635
+KA06A,Non-Pituitary Neoplasia and Hypoplasia with CC,1975,1870,332,2695,233,542,627
+KA06B,Non-Pituitary Neoplasia and Hypoplasia without CC,1277,1501,306,1925,223,422,787
+KA07Z,Non-Surgical Thyroid Disorders,1045,1270,349,1795,207,428,427
+KA08Z,Other Endocrine Disorders,1038,1482,170,1725,232,427,564
+KA09A,Thyroid Procedures with CC,3803,3559,333,3865,232,1628,1312
+KA09B,Thyroid Procedures without CC,2087,3027,312,2753,265,1537,1446
+KB01A,Diabetes with Hypoglycaemic Disorders 70 years and over,1274,1407,285,1689,215,433,333
+KB01B,Diabetes with Hypoglycaemic Disorders 69 years and under,912,1141,253,1322,225,402,528
+KB02A,Diabetes with Hyperglycaemic Disorders 70 years and over with Major CC,2087,2197,246,2536,215,471,440
+KB02B,Diabetes with Hyperglycaemic Disorders 70 years and over with Intermediate CC,1223,1414,293,1649,209,431,428
+KB02C,Diabetes with Hyperglycaemic Disorders 70 years and over without CC,983,1472,289,1509,228,425,648
+KB02D,Diabetes with Hyperglycaemic Disorders 69 years and under with Major CC,1645,2393,238,1975,230,472,364
+KB02E,Diabetes with Hyperglycaemic Disorders 69 years and under with Intermediate CC,789,1703,240,1189,228,416,438
+KB02F,Diabetes with Hyperglycaemic Disorders 69 years and under without CC,605,974,133,986,211,402,671
+KB03A,Diabetes with Lower Limb Complications with Major CC,3090,3242,113,3544,219,617,253
+KB03B,Diabetes with Lower Limb Complications without Major CC,1569,1546,215,2149,233,500,434
+KB04Z,Continuous Subcutaneous Insulin Infusion,635,2552,442,1805,174,424,493
+KC04Z,Inborn Errors of Metabolism,339,948,270,2329,243,445,277
+KC05A,Fluid and Electrolyte Disorders 70 years and over with Major CC,1986,2666,217,2460,212,463,438
+KC05B,Fluid and Electrolyte Disorders 70 years and over with Intermediate CC,1169,1465,276,1617,227,430,338
+KC05C,Fluid and Electrolyte Disorders 70 years and over without CC,632,821,348,1247,224,362,317
+KC05D,Fluid and Electrolyte Disorders 69 years and under with Major CC,1822,2244,183,2301,248,454,343
+KC05E,Fluid and Electrolyte Disorders 69 years and under with Intermediate CC,933,1228,271,1521,311,433,357
+KC05F,Fluid and Electrolyte Disorders 69 years and under without CC,510,910,272,1064,280,372,416
+LA01A,Kidney Transplant 19 years and over from Cadaver Non Heart-Beating Donor,17829,19391,309,19719,523,5945,
+LA01B,Kidney Transplant 18 years and under from Cadaver Non Heart-Beating Donor,18675,17490,,30990,,2453,
+LA02A,Kidney Transplant 19 years and over from Cadaver Heart-Beating Donor,19960,13740,218,21490,319,9843,
+LA02B,Kidney Transplant 18 years and under from Cadaver Heart-Beating Donor,24869,16277,,35378,,9979,
+LA03A,Kidney Transplant 19 years and over from Live Donor,18038,18006,413,12643,214,2569,209
+LA03B,Kidney Transplant 18 years and under from Live Donor,25885,26767,647,13787,,16235,
+LA04D,Kidney or Urinary Tract Infections with length of stay 2 days or more with Major CC,3154,4342,252,2922,219,413,106
+LA04E,Kidney or Urinary Tract Infections with length of stay 2 days or more with Intermediate CC,2071,2475,285,1884,228,361,381
+LA04F,Kidney or Urinary Tract Infections with length of stay 2 days or more without CC,1494,2135,288,1360,238,436,
+LA04G,Kidney or Urinary Tract Infections with length of stay 1 day or less,453,596,,803,,433,400
+LA05Z,Renal Replacement Peritoneal Dialysis Associated Procedures,1049,1366,,3806,,642,1057
+LA07C,Acute Kidney Injury without CC,1178,1550,259,1662,258,477,389
+LA07D,Acute Kidney Injury with Interventions with Major CC,5187,7522,159,4878,243,995,
+LA07E,Acute Kidney Injury without Interventions with Major CC,2207,2505,320,2629,224,503,338
+LA07F,Acute Kidney Injury with Interventions with Intermediate CC,3529,3859,416,3313,280,866,
+LA07G,Acute Kidney Injury without Interventions with Intermediate CC,1414,1835,261,1759,228,478,348
+LA08A,Chronic Kidney Disease with length of stay 2 days or more with Major CC,3487,2932,329,3311,244,877,471
+LA08B,Chronic Kidney Disease with length of stay 2 days or more with Intermediate CC,2644,2675,278,2383,255,1920,
+LA08C,Chronic Kidney Disease with length of stay 2 days or more without CC,2795,2549,271,2438,299,,
+LA08F,Chronic Kidney Disease with length of stay 1 day or less not associated with Renal Dialysis,352,703,,1004,,488,270
+LA09E,General Renal Disorders with length of stay 2 days or more with Major CC,2857,3355,244,2632,215,2704,
+LA09F,General Renal Disorders with length of stay 2 days or more with Intermediate CC,1878,2502,226,1714,268,351,
+LA09G,General Renal Disorders with length of stay 2 days or more without CC,1432,2195,208,1333,293,2336,
+LA09H,General Renal Disorders with length of stay 1 day or less,426,597,,793,,459,301
+LA10Z,Live Kidney Donor Screening,320,,,,,603,639
+LA11Z,Kidney Pre-Transplantation Work-up of Live Donor,467,2262,,,,,730
+LA12A,Kidney Pre-Transplantation Work-up of Recipient 19 years and over,318,881,,,,633,1149
+LA13A,Examination for Post-Transplantation of Kidney of Recipient 19 years and over,141,,,,,,
+LA14Z,Examination for Post-Transplantation of Kidney of Live Donor,206,,,,,,
+LB01A,Percutaneous Nephrostomy with CC,3977,3170,314,4419,261,893,522
+LB01B,Percutaneous Nephrostomy without CC,2434,2611,306,2768,219,1077,564
+LB05A,Intermediate Percutaneous Kidney or Ureter Procedures 19 years and over with Major CC,3963,3404,280,4548,294,774,579
+LB05B,Intermediate Percutaneous Kidney or Ureter Procedures 19 years and over with Intermediate CC,1932,2206,313,2735,308,670,587
+LB05C,Intermediate Percutaneous Kidney or Ureter Procedures 19 years and over without CC,1618,2499,297,2268,302,752,490
+LB05D,Intermediate Percutaneous Kidney or Ureter Procedures 18 years and under,3349,4009,146,5816,582,2019,1329
+LB06D,Kidney Urinary Tract or Prostate Neoplasms with length of stay 2 days or more with Major CC,3894,3865,238,3738,231,493,427
+LB06E,Kidney Urinary Tract or Prostate Neoplasms with length of stay 2 days or more with Intermediate CC,2373,2221,285,2295,239,326,
+LB06F,Kidney Urinary Tract or Prostate Neoplasms with length of stay 2 days or more without CC,2050,1895,219,1884,244,,
+LB06G,Kidney Urinary Tract or Prostate Neoplasms with length of stay 1 day or less,455,745,,1862,,503,356
+LB09C,Intermediate Endoscopic Ureter Procedures 18 years and under,1285,2032,,1679,,1749,1063
+LB09D,Intermediate Endoscopic Ureter Procedures 19 years and over,880,1455,,1613,,1163,639
+LB10A,Major Open Bladder Procedures or Reconstruction 19 years and over,5078,5847,205,4334,253,1644,760
+LB10B,Major Open Bladder Procedures or Reconstruction 18 years and under,6255,6582,172,6108,289,1803,1724
+LB12Z,Intermediate Open Bladder Procedures,3494,3170,297,3901,163,1658,937
+LB13A,Major Endoscopic Bladder Procedures with CC,2234,1959,292,3343,256,1177,941
+LB13B,Major Endoscopic Bladder Procedures without CC,1695,1745,300,2482,262,1101,951
+LB14Z,Intermediate Endoscopic Bladder Procedures,812,1232,,2170,148,926,661
+LB15D,Minor Bladder Procedures 18 years and under,482,1510,,1639,,862,764
+LB15E,Minor Bladder Procedures 19 years and over,378,734,1011,810,,510,365
+LB16A,Urinary Incontinence or Other Urinary Problems with Major CC,1774,2769,219,2086,212,449,427
+LB16B,Urinary Incontinence or Other Urinary Problems with Intermediate CC,1112,1709,269,1441,231,429,331
+LB16C,Urinary Incontinence or Other Urinary Problems without CC,801,1444,604,1173,238,406,312
+LB17Z,Introduction of Therapeutic Substance into Bladder,232,378,,523,,658,292
+LB18Z,Attention to Suprapubic Bladder Catheter,402,1224,,1534,,527,352
+LB19A,Ureteric or Bladder Disorders with CC,1738,1902,282,2077,229,455,276
+LB19B,Ureteric or Bladder Disorders without CC,1011,1621,285,1461,272,451,260
+LB20A,Infection or Mechanical Problems Related to Genito-Urinary Prostheses Implants or Grafts with CC,1298,2333,218,1777,246,414,346
+LB20B,Infection or Mechanical Problems Related to Genito-Urinary Prostheses Implants or Grafts without CC,740,1766,318,1324,251,383,400
+LB21Z,Major Open Prostate or Bladder Neck Procedures (Male),4939,5005,310,5121,270,4351,1054
+LB22Z,Major Laparoscopic Prostate or Bladder Neck Procedures (Male),5156,5117,274,4429,159,,794
+LB25A,Transurethral Prostate Resection Procedures with Major CC,3667,3037,349,5966,276,1175,1903
+LB25B,Transurethral Prostate Resection Procedures with Intermediate CC,2454,2409,276,3375,231,1480,1286
+LB25C,Transurethral Prostate Resection Procedures without CC,2293,2317,296,2835,230,1963,1097
+LB26Z,Intermediate Endoscopic Prostate or Bladder Neck Procedures (Male and Female),1430,1630,324,2240,253,645,942
+LB27Z,Minor Endoscopic Prostate or Bladder Neck Procedures (Male),443,1257,,510,,643,540
+LB28A,Non-Malignant Prostate Disorders with CC,1446,1678,188,1706,242,451,311
+LB28B,Non-Malignant Prostate Disorders without CC,914,1469,210,1192,217,423,395
+LB29A,Major Open Urethra Procedures 19 years and over,3664,3784,315,3406,208,1087,1221
+LB29C,Major Open Urethra Procedures between 2 and 18 years,2579,2885,447,2781,,491,1707
+LB29D,Major Open Urethra Procedures 1 year and under,2316,2558,474,2136,646,1136,1789
+LB33Z,Vasectomy Procedures,681,1322,,,,829,730
+LB35A,Scrotum Testis or Vas Deferens Disorders with CC,1368,2037,224,1849,237,468,510
+LB35B,Scrotum Testis or Vas Deferens Disorders without CC,706,1534,236,1252,249,423,426
+LB36Z,Extracorporeal Lithotripsy,506,989,,,,652,502
+LB37A,Miscellaneous Urinary Tract Findings with CC,996,1534,298,1444,250,445,366
+LB37B,Miscellaneous Urinary Tract Findings without CC,588,1461,277,1097,234,415,254
+LB38A,Unspecified Haematuria with Major CC,1700,2308,231,2079,253,479,335
+LB38B,Unspecified Haematuria without Major CC,953,1595,266,1451,252,439,356
+LB39A,Cystectomy with Urinary Diversion and Reconstruction with CC,9780,9658,258,8595,148,3127,2441
+LB39B,Cystectomy with Urinary Diversion and Reconstruction without CC,7974,8337,346,6616,,3284,2483
+LB40A,Urinary Tract Stone Disease with CC,1048,1961,337,1569,235,482,405
+LB40B,Urinary Tract Stone Disease without CC,660,1552,317,1125,274,448,455
+LB42A,Dynamic Studies of Urinary Tract 19 years and over,168,670,,580,,472,340
+LB42B,Dynamic Studies of Urinary Tract between 2 and 18 years,385,1569,,2768,,584,520
+LB42C,Dynamic Studies of Urinary Tract 1 year and under,453,905,,3597,,463,482
+LB43Z,Treatment of Erectile Dysfunction,195,733,,,,637,262
+LB46Z,Live Donation of Kidney,6429,6426,236,2738,,,
+LB47Z,Major Open Penis Procedures,3406,5425,229,4186,312,1873,475
+LB48Z,Intermediate Open Penis Procedures,2389,2730,354,3661,295,831,1461
+LB49Z,High Intensity Focused Ultrasound (Male and Female),444,2853,1029,2526,239,,1842
+LB50Z,Implantation of Artificial Urinary Sphincter (Male and Female),4014,4557,734,2099,158,806,773
+LB51Z,Vaginal Tape Operations for Urinary Incontinence,1393,1495,368,4103,326,593,1050
+LB52Z,Major Open Scrotum Testis or Vas Deferens Procedures,2310,2366,405,3119,268,1202,1179
+LB53A,Intermediate Open Scrotum Testis or Vas Deferens Procedures 19 years and over,1743,1813,271,2677,267,1634,1231
+LB53B,Intermediate Open Scrotum Testis or Vas Deferens Procedures 18 years and under,1625,2066,,2438,284,1685,1362
+LB54A,Minor Scrotum Testis or Vas Deferens Procedures 19 years and over,1059,1540,,1485,,1248,992
+LB54C,Minor Scrotum Testis or Vas Deferens Procedures between 2 and 18 years,1407,1961,,1583,,1361,1372
+LB54D,Minor Scrotum Testis or Vas Deferens Procedures 1 year and under,1541,1943,,2078,,1517,1502
+LB55A,Minor or Intermediate Urethra Procedures 19 years and over,746,1273,,282,,865,596
+LB55B,Minor or Intermediate Urethra Procedures 18 years and under,1025,1540,,1002,,1717,927
+LB56A,Minor Penis Procedures 19 years and over,888,1415,,480,,704,853
+LB56C,Minor Penis Procedures between 2 and 18 years,1016,1524,,1365,,1058,992
+LB56D,Minor Penis Procedures 1 year and under,1050,1833,,1145,,1394,991
+LB57A,Urethral Disorders with CC,1803,1938,274,1904,246,456,327
+LB57B,Urethral Disorders without CC,1281,1821,222,1599,267,423,270
+LB58A,Penile Disorders with CC,1391,1905,243,1819,249,417,268
+LB58B,Penile Disorders without CC,813,1918,186,1527,223,404,234
+LB59Z,Major Open or Laparoscopic Bladder Neck Procedures (Female),3440,3802,329,3945,175,598,1006
+LB60A,Complex Open or Laparoscopic Kidney or Ureter Procedures with Major CC,8284,8979,264,7909,254,1627,962
+LB60B,Complex Open or Laparoscopic Kidney or Ureter Procedures without Major CC,5298,5272,272,5598,268,1311,1029
+LB61A,Major Open Kidney or Ureter Procedures 19 years and over with Major CC,6204,6793,213,5964,272,1341,457
+LB61B,Major Open Kidney or Ureter Procedures 19 years and over without Major CC,4050,4542,292,4233,278,1220,739
+LB62A,Major Laparoscopic Kidney or Ureter Procedures 19 years and over with CC,5214,5095,325,6064,263,832,4757
+LB62B,Major Laparoscopic Kidney or Ureter Procedures 19 years and over without CC,4684,4680,308,6672,324,4098,1574
+LB63A,Major Open or Laparoscopic Kidney or Ureter Procedures 18 years and under with CC,7358,6194,787,10027,486,1473,3744
+LB63B,Major Open or Laparoscopic Kidney or Ureter Procedures 18 years and under without CC,4616,4706,460,6953,397,791,2166
+LB64A,Complex Endoscopic Kidney or Ureter Procedures 19 years and over with Major CC,5002,3847,224,5880,323,1278,1389
+LB64B,Complex Endoscopic Kidney or Ureter Procedures 19 years and over without Major CC,2408,2458,322,2563,288,1520,1481
+LB65A,Major Endoscopic Kidney or Ureter Procedures 19 years and over with Major CC,3624,3077,217,4248,264,1265,1073
+LB65B,Major Endoscopic Kidney or Ureter Procedures 19 years and over without Major CC,2039,2151,312,2374,269,1317,1232
+LB66Z,Complex or Major Endoscopic Kidney or Ureter Procedures 18 years and under,3508,3873,409,3314,334,2478,1772
+LB67A,Complex Open Bladder Procedures with Major CC,12930,12334,232,12208,259,708,
+LB67B,Complex Open Bladder Procedures without Major CC,8348,8064,339,10536,218,12775,898
+LB68Z,Complex Endoscopic Bladder Procedures,3398,2759,259,4694,273,1379,878
+LB69Z,Major Robotic Prostate or Bladder Neck Procedures (Male),7123,7106,317,8769,531,5630,687
+LB70A,Complex Endoscopic Prostate or Bladder Neck Procedures (Male and Female) with CC,3147,2708,285,4698,286,1108,1147
+LB70B,Complex Endoscopic Prostate or Bladder Neck Procedures (Male and Female) without CC,2455,2456,323,3552,243,561,957
+LB71Z,Total Pelvic Exenteration,12496,11973,350,11710,227,7907,
+LB72A,Diagnostic Flexible Cystoscopy 19 years and over,385,1190,663,1068,126,571,395
+LB72B,Diagnostic Flexible Cystoscopy 18 years and under,786,1557,,657,,1182,762
+LB73Z,Diagnostic Flexible Cystoscopy using Photodynamic Fluorescence,1465,1810,,,,575,988
+LB74Z,Implantation of Penile Prosthesis,5538,5598,343,9104,245,2565,2012
+LD01A,Hospital Haemodialysis or Filtration with Access via Haemodialysis Catheter 19 years and over,156,,,,,,
+LD01B,Hospital Haemodialysis or Filtration with Access via Haemodialysis Catheter 18 years and under,389,,,,,,
+LD02A,Hospital Haemodialysis or Filtration with Access via Arteriovenous Fistula or Graft 19 years and over,160,,,,,,
+LD02B,Hospital Haemodialysis or Filtration with Access via Arteriovenous Fistula or Graft 18 years and under,198,,,,,,
+LD03A,Hospital Haemodialysis or Filtration with Access via Haemodialysis Catheter with Blood-borne Virus 19 years and over,231,,,,,,
+LD04A,Hospital Haemodialysis or Filtration with Access via Arteriovenous Fistula or Graft with Blood-borne Virus 19 years and over,211,,,,,,
+LD04B,Hospital Haemodialysis or Filtration with Access via Arteriovenous Fistula or Graft with Blood-borne Virus 18 years and under,156,,,,,,
+LD05A,Satellite Haemodialysis or Filtration with Access via Haemodialysis Catheter 19 years and over,145,,,,,,
+LD05B,Satellite Haemodialysis or Filtration with Access via Haemodialysis Catheter 18 years and under,200,,,,,,
+LD06A,Satellite Haemodialysis or Filtration with Access via Arteriovenous Fistula or Graft 19 years and over,148,,,,,,
+LD06B,Satellite Haemodialysis or Filtration with Access via Arteriovenous Fistula or Graft 18 years and under,156,,,,,,
+LD07A,Satellite Haemodialysis or Filtration with Access via Haemodialysis Catheter with Blood-borne Virus 19 years and over,270,,,,,,
+LD08A,Satellite Haemodialysis or Filtration with Access via Arteriovenous Fistula or Graft with Blood-borne Virus 19 years and over,202,,,,,,
+LD09A,Home Haemodialysis or Filtration with Access via Haemodialysis Catheter 19 years and over,143,,,,,,
+LD09B,Home Haemodialysis or Filtration with Access via Haemodialysis Catheter 18 years and under,113,,,,,,
+LD10A,Home Haemodialysis or Filtration with Access via Arteriovenous Fistula or Graft 19 years and over,132,,,,,,
+LD10B,Home Haemodialysis or Filtration with Access via Arteriovenous Fistula or Graft 18 years and under,134,,,,,,
+LD11A,Continuous Ambulatory Peritoneal Dialysis 19 years and over,54,,,,,,
+LD11B,Continuous Ambulatory Peritoneal Dialysis 18 years and under,91,,,,,,
+LD12A,Automated Peritoneal Dialysis 19 years and over,63,,,,,,
+LD12B,Automated Peritoneal Dialysis 18 years and under,87,,,,,,
+LD13A,Assisted Automated Peritoneal Dialysis 19 years and over,67,,,,,,
+MA01Z,Complex Open Upper or Lower Genital Tract Procedures,5111,4970,274,8051,379,5576,1921
+MA02Z,Very Major Open Upper or Lower Genital Tract Procedures,3774,3679,324,4730,322,2900,1507
+MA03A,Major Open Lower Genital Tract Procedures with CC,2751,2727,309,3555,406,241,1264
+MA03B,Major Open Lower Genital Tract Procedures without CC,2374,2427,337,2922,284,1007,1247
+MA04A,Intermediate Open Lower Genital Tract Procedures with CC,2179,2222,342,2657,234,1237,1110
+MA04B,Intermediate Open Lower Genital Tract Procedures without CC,1851,2011,291,2546,338,1229,1056
+MA06Z,Major Open or Laparoscopic Upper or Lower Genital Tract Procedures for Malignancy,3622,3579,318,4570,265,4118,1241
+MA07C,Major Open Upper Genital Tract Procedures with Major CC,4535,4327,336,5250,247,4605,818
+MA07D,Major Open Upper Genital Tract Procedures without Major CC,3269,3288,353,3627,388,2135,1508
+MA08Z,Major Laparoscopic or Endoscopic Upper Genital Tract Procedures,2606,2752,431,2904,339,2121,1666
+MA09Z,Intermediate Laparoscopic or Endoscopic Upper Genital Tract Procedures,2092,2204,348,2975,327,2265,1495
+MA10Z,Minor Laparoscopic or Endoscopic Upper Genital Tract Procedures,1244,1788,,3901,,1798,1155
+MA11Z,Intermediate Open Upper Genital Tract Procedures,2395,2576,386,3372,260,1629,1403
+MA12Z,Resection or Ablation Procedures for Intra-uterine Lesions,1016,1431,,1688,,1081,995
+MA17C,Dilation and Evacuation less than 14 weeks gestation,1048,1142,229,1986,384,1041,788
+MA17D,Dilation and Evacuation 14 to 20 weeks gestation,1307,1408,,2440,451,1186,587
+MA18C,Medical Termination of Pregnancy less than 14 weeks gestation,495,716,364,1694,358,606,405
+MA18D,Medical Termination of Pregnancy 14 to 20 weeks gestation,777,772,384,1964,368,988,486
+MA19A,Vacuum Aspiration with Cannula less than 14 weeks gestation,810,1150,290,1784,357,1009,652
+MA19B,Vacuum Aspiration with Cannula 14 to 20 weeks gestation,1181,1482,,2211,338,1187,688
+MA20Z,Medical or Surgical Termination of Pregnancy over 20 weeks gestation,1545,1009,407,1663,569,1156,708
+MA21Z,Diagnostic Hysteroscopy,531,1175,,990,,673,739
+MA22Z,Minor Lower Genital Tract Procedures Category 1,765,1365,,1288,,1134,867
+MA23Z,Minor Lower Genital Tract Procedures Category 2,214,1055,,789,,498,580
+MA24Z,Minor Upper Genital Tract Procedures Category 1,891,1459,,1206,,919,986
+MA25Z,Minor Upper Genital Tract Procedures Category 2,209,1177,,644,,748,673
+MA26Z,Complex Open or Laparoscopic Upper or Lower Genital Tract Procedures for Malignancy,4782,4665,317,5717,288,3337,1903
+MA27Z,Minor Upper or Lower Genital Tract Procedures for Malignancy,1100,1384,,1194,,977,948
+MA28Z,Complex Laparoscopic or Endoscopic Upper Genital Tract Procedures,3396,3414,418,4826,360,1670,1593
+MA29Z,Major Female Pelvic Peritoneum Adhesion Procedures,2224,2522,291,3684,317,2211,1481
+MA30Z,Intermediate Female Pelvic Peritoneum Adhesion Procedures,1471,1870,,583,,1704,1318
+MB01A,Lower Genital Tract Disorders with CC,1622,2098,351,1830,246,476,501
+MB01B,Lower Genital Tract Disorders without CC,634,1800,388,1531,251,463,431
+MB02Z,Genital Prolapse or Incontinence,1479,1673,262,2023,226,460,424
+MB03A,Uterus Disorders (including Fibroids) Menstrual Disorders or Endometriosis with CC,1412,1963,321,1786,272,487,422
+MB03B,Uterus Disorders (including Fibroids) Menstrual Disorders or Endometriosis without CC,783,1693,327,1460,302,460,432
+MB04A,Ovary Fallopian Tube or Pelvic Disorders with CC,1890,2418,199,2208,229,539,518
+MB04B,Ovary Fallopian Tube or Pelvic Disorders without CC,1126,1932,410,1719,245,527,485
+MB05A,Gynaecological Malignancy with length of stay 1 day or more,2800,2094,300,3164,271,632,541
+MB05B,Gynaecological Malignancy with length of stay 0 days,406,945,,2146,,389,312
+MB06Z,Other Gynaecological Conditions,1089,1683,270,1678,266,445,442
+MB07Z,Gynaecological Fistula Conditions,2341,2389,184,2886,248,560,662
+MB08Z,Threatened or Spontaneous Miscarriage,554,711,500,1384,394,463,421
+MC06Z,Collection of Sperm,208,2805,,,,1284,1184
+MC07Z,Intra-uterine Insemination with Superovulation,333,926,,,,,331
+MC08Z,Intra-uterine Insemination with Superovulation with Donor,544,,,,,,676
+MC09Z,Intra-uterine Insemination without Superovulation,433,1881,,3938,,,741
+MC10Z,Intra-uterine Insemination without Superovulation with Donor,509,,,,,,716
+MC11Z,Implantation of Embryo,742,4205,88,,,1331,1045
+MC12Z,Oocyte Recovery,1227,2834,519,1289,277,1554,1204
+MC13Z,Donor Oocyte Recovery,1113,,,,,,953
+MC14Z,Oocyte Recovery with Intracytoplasmic Sperm Injection,1178,391,,,,,845
+MC15Z,Oocyte Recovery with Pre-Implantation Genetic Diagnosis,2243,,,,,,
+NZ10Z,Diagnostic or Therapeutic Procedures on Fetus,117,1680,,7674,195,1479,761
+NZ11A,Normal Delivery with CC,1603,1180,,2218,388,1097,
+NZ11B,Normal Delivery without CC,1292,817,560,1880,437,1044,1366
+NZ11C,Normal Delivery with Epidural with CC,2227,3167,813,2587,548,1278,
+NZ11D,Normal Delivery with Epidural without CC,1666,1295,273,2110,416,1185,
+NZ11E,Normal Delivery with Induction with CC,2315,1768,395,2681,380,1226,
+NZ11F,Normal Delivery with Induction without CC,1751,1611,940,2173,449,1142,405
+NZ11G,Normal Delivery with Post-partum Surgical Intervention,2329,2159,1105,2674,438,1496,
+NZ12A,Assisted Delivery with CC,2233,3086,,2644,234,1311,
+NZ12B,Assisted Delivery without CC,1762,1305,,2227,407,1206,1497
+NZ12C,Assisted Delivery with Epidural with CC,2551,2919,1361,2782,398,1472,
+NZ12D,Assisted Delivery with Epidural without CC,2054,1883,1078,2429,407,1364,
+NZ12E,Assisted Delivery with Induction with CC,2924,4300,884,3047,400,1487,465
+NZ12F,Assisted Delivery with Induction without CC,2294,2510,1199,2575,438,1358,
+NZ12G,Assisted Delivery with Post-partum Surgical Intervention,2914,2557,240,3111,397,1704,
+NZ13A,Planned Lower Uterine Caesarean Section with CC,3041,2609,448,3074,388,1617,1113
+NZ13B,Planned Lower Uterine Caesarean Section without CC,2596,2304,432,2672,411,1647,1213
+NZ14A,Emergency or Upper Uterine Caesarean Section with CC,3789,3368,400,3752,399,1929,1885
+NZ14B,Emergency or Upper Uterine Caesarean Section without CC,3288,2974,196,3292,419,1742,729
+NZ15Z,Caesarean Section with Eclampsia Pre-eclampsia or Placenta Praevia,5409,3884,457,5250,434,2410,
+NZ16Z,Ante-natal Routine Observation,571,531,501,878,421,557,400
+NZ17Z,Ante-natal False Labour including Premature Rupture of Membranes,701,697,364,1568,403,569,539
+NZ18Z,Ante-natal Complex Disorders,1251,1077,475,1830,393,664,423
+NZ19Z,Ante-natal Major Disorders,755,866,272,1498,436,582,755
+NZ20Z,Ante-natal Other Disorders,671,566,460,1076,462,552,955
+NZ21Z,Ante-natal Standard Ultrasound Scan,109,340,,608,,477,615
+NZ22Z,Ante-natal Specialised Ultrasound Scan,121,541,,531,,593,448
+NZ23Z,Ante-natal Diagnostic Procedures,133,498,,958,,1263,542
+NZ24Z,Ante-natal Therapeutic Procedures including Induction,851,1175,369,1754,417,760,817
+NZ25Z,Labour without Specified Delivery,1036,1321,1710,1620,390,730,446
+NZ26Z,Post-natal Disorders,1162,1703,1044,1948,328,708,449
+NZ27Z,Post-natal Therapeutic Procedures,1226,1541,326,2285,457,987,898
+PA01A,Nervous System Disorders with CC,2257,3008,418,3752,461,834,869
+PA01B,Nervous System Disorders without CC,1011,1784,353,1937,289,527,823
+PA02A,Epilepsy Syndrome with CC,1450,2743,502,2343,387,567,1064
+PA02B,Epilepsy Syndrome without CC,977,1707,549,1739,384,534,959
+PA03A,Febrile Convulsions under 1 year,1049,2038,451,1908,414,547,638
+PA03B,Febrile Convulsions 1 year and over,699,1132,318,1362,370,520,728
+PA04A,Headaches and Migraines with CC,843,1475,496,1447,383,526,662
+PA04B,Headaches and Migraines without CC,646,1152,244,1305,343,473,726
+PA05A,Developmental Disorders with length of stay 1 day or less,980,868,,945,,564,1054
+PA05B,Developmental Disorders with length of stay between 2 and 7 days,2986,3117,,2873,,,
+PA05C,Developmental Disorders with length of stay 8 days or more,35354,56705,,10443,,,
+PA06Z,Head Injury with Intracranial Injury,2138,1264,345,2910,413,720,718
+PA07A,Head Injury without Intracranial Injury with CC,728,1372,458,1531,353,539,555
+PA07B,Head Injury without Intracranial Injury without CC,576,695,515,1238,149,516,507
+PA08A,Intermediate Injury without Intracranial Injury with CC,1351,2691,825,1841,471,633,402
+PA08B,Intermediate Injury without Intracranial Injury without CC,982,1120,,1678,342,625,515
+PA11Z,Acute Upper Respiratory Tract Infection and Common Cold,575,1021,522,1261,477,465,404
+PA12Z,Asthma or Wheezing,791,1388,418,1323,409,558,596
+PA14C,Lower Respiratory Tract Disorders without Acute Bronchiolitis with length of stay 1 day or more with CC,2772,5202,498,3055,410,797,309
+PA14D,Lower Respiratory Tract Disorders without Acute Bronchiolitis with length of stay 1 day or more without CC,1281,2457,508,1689,397,669,390
+PA14E,Lower Respiratory Tract Disorders without Acute Bronchiolitis with length of stay 0 days,482,1074,,1237,231,449,548
+PA15A,Acute Bronchiolitis with CC,2100,3329,379,2769,385,656,829
+PA15B,Acute Bronchiolitis without CC,997,1258,607,1724,397,505,475
+PA16A,Major Infections with CC,2206,4703,503,3226,377,676,610
+PA16B,Major Infections without CC,987,1699,486,1888,401,536,509
+PA17A,Intermediate Infections with CC,1455,3295,652,2102,389,562,715
+PA17B,Intermediate Infections without CC,907,1330,373,1581,403,505,476
+PA18A,Minor Infections with CC,1145,3015,677,2104,427,525,621
+PA18B,Minor Infections without CC,601,669,481,1344,381,447,476
+PA19A,Viral Infections with length of stay 1 day or less,522,596,,540,,521,445
+PA19B,Viral Infections with length of stay 2 days or more,1530,1919,414,1475,318,1267,
+PA20A,Fever Unspecified with CC,1207,1963,647,2058,493,544,445
+PA20B,Fever Unspecified without CC,712,835,404,1421,411,467,386
+PA21A,Infectious or Non-Infectious Gastroenteritis with CC,1173,2630,413,1938,396,558,521
+PA21B,Infectious or Non-Infectious Gastroenteritis without CC,642,919,464,1239,379,509,435
+PA22Z,Chest Pain,542,1542,280,1175,338,431,885
+PA23A,Cardiac Conditions with CC,3224,3780,464,4523,379,1199,1128
+PA23B,Cardiac Conditions without CC,1472,2636,637,2112,393,721,951
+PA24Z,Arrhythmia or Conduction Disorders,1092,3103,588,2257,442,532,864
+PA25A,Major Gastrointestinal Disorders with CC,3387,4462,385,4762,438,866,577
+PA25B,Major Gastrointestinal Disorders without CC,1666,3322,362,3661,353,675,461
+PA26A,Other Gastrointestinal Disorders with CC,1559,2970,332,2581,401,548,633
+PA26B,Other Gastrointestinal Disorders without CC,754,1635,426,1399,373,496,509
+PA27Z,Inflammatory Bowel Disease,1067,2645,607,2747,327,559,487
+PA28A,Feeding Difficulties and Vomiting with CC,1590,2839,424,2357,359,585,543
+PA28B,Feeding Difficulties and Vomiting without CC,685,1473,424,1357,405,486,446
+PA29Z,Abdominal Pain,697,1541,542,1247,313,497,503
+PA30A,Faltering Growth (Failure to Thrive) with CC,2297,3295,369,3460,337,559,763
+PA30B,Faltering Growth (Failure to Thrive) without CC,957,1138,481,1809,376,481,759
+PA31Z,Major Injury without Intracranial Injury,3390,2945,208,4458,332,752,551
+PA32A,Minor Injury without Intracranial Injury with CC,854,1295,678,1590,382,544,531
+PA32B,Minor Injury without Intracranial Injury without CC,640,841,420,1376,367,519,715
+PA34A,Musculoskeletal or Connective Tissue Disorders with CC,1297,2527,453,2152,380,573,699
+PA34B,Musculoskeletal or Connective Tissue Disorders without CC,802,1707,395,1566,384,515,572
+PA35A,Skin Disorders with CC,1432,2971,371,2401,457,541,536
+PA35B,Skin Disorders without CC,757,1666,519,1446,382,471,521
+PA36Z,Endocrine Disorders excluding Diabetes Mellitus,964,2159,562,2385,332,580,661
+PA38C,Renal Disease with Renal Failure with length of stay 0 days,535,797,,1069,,662,557
+PA38D,Renal Disease with Renal Failure with length of stay 1 day or more,3301,3605,668,3543,415,906,293
+PA40A,Acute Lymphoblastic Leukaemia with length of stay 1 day or more with CC,7234,8655,773,6767,365,1074,1580
+PA40B,Acute Lymphoblastic Leukaemia with length of stay 1 day or more without CC,4552,4782,506,5238,463,873,2278
+PA41Z,Other Haematological Malignancies with length of stay 1 day or more,9380,9842,723,9172,759,1142,
+PA42Z,Brain Tumours with length of stay 1 day or more,4074,3407,719,4181,492,1181,1020
+PA43A,Other Neoplasms with length of stay 1 day or more with CC,4658,4151,642,4967,478,1122,
+PA43B,Other Neoplasms with length of stay 1 day or more without CC,3336,3143,1011,3694,636,912,677
+PA44Z,Neoplasm Diagnoses with length of stay 0 days,674,883,,2962,,611,665
+PA45Z,Febrile Neutropenia with Malignancy,6697,10799,751,4384,469,1012,481
+PA46Z,Paediatric Thalassaemia,726,1183,741,3344,422,713,648
+PA47Z,Sickle-cell Anaemia with Crisis,1666,2037,435,2427,397,678,507
+PA48A,Blood Cell Disorders with CC,2483,4067,635,3411,456,781,709
+PA48B,Blood Cell Disorders without CC,954,1964,1134,1990,404,604,586
+PA49Z,Coagulation Disorders,771,2145,411,1592,439,519,571
+PA50Z,Ingestion Poisoning or Allergies,572,1181,596,1184,367,463,427
+PA51Z,Child Safeguarding (welfare and protection),1291,1130,256,2116,401,474,332
+PA52A,Behavioural Disorders with length of stay 1 day or less,514,952,,721,,479,780
+PA52B,Behavioural Disorders with length of stay between 2 and 7 days,1869,2007,,1847,,362,
+PA52C,Behavioural Disorders with length of stay 8 days or more,19031,34498,243,11170,409,,
+PA53A,Eating Disorders with length of stay less than 8 days,1106,1095,,2022,,478,541
+PA53B,Eating Disorders with length of stay 8 days or more,12451,15851,33,11816,496,,
+PA54Z,Convalescent or other Relief Care,756,1938,360,1145,233,450,520
+PA55Z,Respite Care,1430,1491,390,902,,609,
+PA56A,Paediatric Admission for Unexplained Symptoms with CC,1080,1916,164,1923,373,527,563
+PA56B,Paediatric Admission for Unexplained Symptoms without CC,709,1358,607,1387,424,467,599
+PA57Z,Examination Follow-up Special Screening or other Admissions with length of stay 1 day or more,1101,1886,600,1391,362,636,414
+PA58Z,Examination Follow-up Special Screening or other Admissions with length of stay 0 days,466,637,,432,,406,496
+PA59C,Major Congenital Conditions under 1 year with CC,2993,3253,323,4400,293,838,787
+PA59D,Major Congenital Conditions under 1 year without CC,1205,2041,403,1803,352,848,677
+PA59E,Major Congenital Conditions 1 year and over with CC,1858,2611,293,3669,311,640,950
+PA59F,Major Congenital Conditions 1 year and over without CC,1111,1824,603,2210,218,648,863
+PA60C,Other Congenital Conditions under 1 year with CC,1768,2750,369,1876,498,806,740
+PA60D,Other Congenital Conditions under 1 year without CC,685,2112,402,984,308,444,664
+PA60E,Other Congenital Conditions 1 year and over with CC,1463,2576,426,3022,252,659,771
+PA60F,Other Congenital Conditions 1 year and over without CC,992,1937,329,1928,292,502,636
+PA62Z,Syncope and Collapse,595,1284,362,1215,348,465,668
+PA63A,Head Neck and Ear Disorders with length of stay 0 days,424,668,,441,,404,614
+PA63B,Head Neck and Ear Disorders with length of stay 1 day or more with CC,1326,1928,263,1636,488,642,883
+PA63C,Head Neck and Ear Disorders with length of stay 1 day or more without CC,846,1409,691,1337,379,592,707
+PA64A,Non-Surgical Ophthalmology with length of stay 0 days,517,1151,3,418,3,414,636
+PA64B,Non-Surgical Ophthalmology with length of stay 1 day or more with CC,1616,1753,429,1904,266,718,
+PA64C,Non-Surgical Ophthalmology with length of stay 1 day or more without CC,1310,1813,75,1624,501,665,
+PA65A,Upper Respiratory Tract Disorders with length of stay 0 days,418,637,,527,,399,601
+PA65B,Upper Respiratory Tract Disorders with length of stay 1 day or more with CC,1878,1729,814,2067,425,698,287
+PA65C,Upper Respiratory Tract Disorders with length of stay 1 day or more without CC,819,772,373,821,375,583,354
+PA66Z,Rash or Other Non-Specific Skin Eruption,564,569,319,1193,402,457,408
+PA67Z,Diabetes Mellitus with Ketoacidosis or Coma,1065,1768,539,1471,380,576,329
+PA68Z,Diabetes Mellitus without Ketoacidosis or Coma,1255,2763,563,1816,501,571,539
+PA69Z,Nephritic and Nephrotic Renal Diseases,1303,1788,359,1818,422,542,607
+PA70Z,Other Renal Diseases,745,1923,568,1463,356,465,450
+PA71Z,Paediatric Hepatobiliary or Pancreatic Disorders,2339,4779,790,2720,428,717,823
+PA72Z,Metabolic Disorders,2463,3480,573,4277,400,674,2049
+PB01Z,Major Neonatal Diagnoses,1634,2253,363,2083,291,639,626
+PB02Z,Minor Neonatal Diagnoses,1130,1461,207,1429,183,621,436
+QZ01A,Aortic or Abdominal Surgery with CC,8292,8279,227,9193,205,4327,701
+QZ01B,Aortic or Abdominal Surgery without CC,6137,6620,383,6686,253,4006,1673
+QZ02A,Lower Limb Arterial Surgery with CC,7809,6893,286,8623,264,2760,1744
+QZ02B,Lower Limb Arterial Surgery without CC,5353,5051,320,6095,276,2882,1695
+QZ03Z,Bypasses to Tibial Arteries,10753,9286,308,12028,225,3557,866
+QZ04Z,Extracranial or Upper Limb Arterial Surgery,4017,3923,324,4240,294,2323,1908
+QZ05A,Miscellaneous Vascular Procedures with CC,2563,3451,291,4226,291,1304,1003
+QZ05B,Miscellaneous Vascular Procedures without CC,812,2561,305,2929,278,1155,973
+QZ11A,Amputations with Major CC,14071,14051,238,14000,229,2717,1200
+QZ11B,Amputations without Major CC,10038,9456,444,10406,246,2495,1240
+QZ12Z,Foot Procedures for Diabetes or Arterial Disease or Procedures to Amputation Stumps,4801,3631,240,5871,256,1290,1148
+QZ13A,Vascular Access for Renal Replacement Therapy with CC,1368,1957,,2844,,913,1158
+QZ13B,Vascular Access for Renal Replacement Therapy without CC,1451,1965,,3873,,912,1310
+QZ14A,Vascular Access except for Renal Replacement Therapy with CC,672,1414,,2022,,950,494
+QZ14B,Vascular Access except for Renal Replacement Therapy without CC,341,872,,2625,,784,440
+QZ15A,Therapeutic Endovascular Procedures with Major CC,6778,5934,428,7412,266,1441,1188
+QZ15B,Therapeutic Endovascular Procedures with Intermediate CC,2882,2208,327,4527,237,1069,724
+QZ15C,Therapeutic Endovascular Procedures without CC,1176,1907,355,3498,282,964,532
+QZ16A,Diagnostic Vascular Radiology or other Transluminal Diagnostic Procedures with Major CC,1231,6837,447,6105,164,948,1028
+QZ16B,Diagnostic Vascular Radiology or other Transluminal Diagnostic Procedures with Intermediate CC,2389,1754,299,3655,211,833,899
+QZ16C,Diagnostic Vascular Radiology or other Transluminal Diagnostic Procedures without CC,934,1599,287,2891,297,691,890
+QZ17A,Non-Surgical Peripheral Vascular Disease with Major CC,3487,3966,142,3953,217,684,336
+QZ17B,Non-Surgical Peripheral Vascular Disease with Intermediate CC,1862,1971,283,2528,231,597,600
+QZ17C,Non-Surgical Peripheral Vascular Disease without CC,912,1443,270,1848,253,486,425
+QZ19Z,Blood Vessel Injury with No Significant Procedure,1513,1190,,1982,261,603,292
+QZ20Z,Deep Vein Thrombosis,821,1125,288,1718,233,463,132
+QZ21A,Re-do Varicose Vein Procedures with CC (includes Ulceration),1514,1832,377,,,,1243
+QZ21B,Re-do Varicose Vein Procedures without CC,1537,2047,360,803,171,,1365
+QZ22A,Primary Varicose Vein Procedures with CC (includes Ulceration),1519,1919,277,2324,273,1031,1247
+QZ22B,Primary Varicose Vein Procedures without CC,1110,1838,237,1196,281,714,1142
+QZ23Z,Thoracoabdominal Aneurysm Repair,13573,14430,250,16883,271,5453,465
+RA01A,Magnetic Resonance Imaging Scan one area no contrast 19 years and over,146,,,,,,
+RA01B,Magnetic Resonance Imaging Scan one area no contrast 6 to 18 years,153,,,,,,
+RA01C,Magnetic Resonance Imaging Scan one area no contrast 5 years and under,187,,,,,,
+RA02A,Magnetic Resonance Imaging Scan one area post contrast only 19 years and over,169,,,,,,
+RA02B,Magnetic Resonance Imaging Scan one area post contrast only 6 to 18 years,186,,,,,,
+RA02C,Magnetic Resonance Imaging Scan one area post contrast only 5 years and under,203,,,,,,
+RA03Z,Magnetic Resonance Imaging Scan one area pre and post contrast,190,,,,,,
+RA04Z,Magnetic Resonance Imaging Scan two to three areas no contrast,182,,,,,,
+RA05Z,Magnetic Resonance Imaging Scan two to three areas with contrast,246,,,,,,
+RA06Z,Magnetic Resonance Imaging Scan more than three areas,233,,,,,,
+RA07Z,Magnetic Resonance Imaging Scan requiring extensive patient repositioning and/or more than one contrast agent,266,,,,,,
+RA08A,Computerised Tomography Scan one area no contrast 19 years and over,92,,,,,,
+RA08B,Computerised Tomography Scan one area no contrast 6 to 18 years,94,,,,,,
+RA08C,Computerised Tomography Scan one area no contrast 5 years and under,130,,,,,,
+RA09A,Computerised Tomography Scan one area with post contrast only 19 years and over,106,,,,,,
+RA09B,Computerised Tomography Scan one area with post contrast only 6 to 18 years,114,,,,,,
+RA09C,Computerised Tomography Scan one area with post contrast only 5 years and under,117,,,,,,
+RA10Z,Computerised Tomography Scan one area pre and post contrast,105,,,,,,
+RA11Z,Computerised Tomography Scan two areas without contrast,104,,,,,,
+RA12Z,Computerised Tomography Scan two areas with contrast,125,,,,,,
+RA13Z,Computerised Tomography Scan three areas with contrast,135,,,,,,
+RA14Z,Computerised Tomography Scan more than three areas,147,,,,,,
+RA15Z,Dexa Scan,71,,,,,,
+RA16Z,Contrast Fluoroscopy Procedures less than 20 minutes,118,,,,,,
+RA17Z,Contrast Fluoroscopy Procedures 20 to 40 minutes,144,,,,,,
+RA18Z,Contrast Fluoroscopy Procedures more than 40 minutes,105,,,,,,
+RA19Z,Mobile or Intraoperative Contrast Fluoroscopy Procedures less than 20 minutes,109,,,,,,
+RA20Z,Mobile or Intraoperative Contrast Fluoroscopy Procedures 20 to 40 minutes,110,,,,,,
+RA21Z,Mobile or Intraoperative Contrast Fluoroscopy Procedures more than 40 minutes,237,,,,,,
+RA23Z,Ultrasound Scan less than 20 minutes,51,,,,,,
+RA24Z,Ultrasound Scan 20 minutes and over,64,,,,,,
+RA25Z,Ultrasound Mobile Scan or Intraoperative Procedures less than 20 minutes,45,,,,,,
+RA26Z,Ultrasound Mobile Scan or Intraoperative Procedures 20 to 40 minutes,146,,,,,,
+RA27Z,Ultrasound Mobile Scan or Intraoperative Procedures more than 40 minutes,95,,,,,,
+RA35Z,Nuclear Medicine Category 1,137,,,,,,
+RA36Z,Nuclear Medicine Category 2,185,,,,,,
+RA37Z,Nuclear Medicine Category 3,238,,,,,,
+RA38Z,Nuclear Medicine Category 4,342,,,,,,
+RA39Z,Nuclear Medicine Category 5,442,,,,,,
+RA40Z,Nuclear Medicine Category 6,424,,,,,,
+RA42Z,Nuclear Medicine Category 8,782,,,,,,
+RA50Z,Computerised Tomography Scan three areas without contrast,139,,,,,,
+RA60A,Simple Echocardiogram 19 years and over,79,,,,,,
+RA60B,Simple Echocardiogram 6 to 18 years,90,,,,,,
+RA60C,Simple Echocardiogram 5 years and under,116,,,,,,
+RA65Z,Cardiac Magnetic Resonance Imaging Scan no contrast,449,,,,,,
+RA66Z,Cardiac Magnetic Resonance Imaging Scan post contrast only,368,,,,,,
+RA67Z,Cardiac Magnetic Resonance Imaging Scan pre and post contrast,613,,,,,,
+RC01Z,Major Uroradiology Interventional Radiology Procedures,3574,3574,,,,,
+RC02Z,Intermediate Uroradiology Interventional Radiology Procedures,2508,1977,360,4107,269,981,989
+RC03Z,Minor Uroradiology Interventional Radiology Procedures,504,1541,,,,,218
+RC11A,Endovascular Stent Graft for Ruptured Abdominal Aortic Aneurysm One Branched Stent Graft,10461,37505,,8469,,5579,
+RC11B,Endovascular Stent Graft for Ruptured Abdominal Aortic Aneurysm One Fenestrated Stent Graft,11206,1169,,16224,,,
+RC11C,Endovascular Stent Graft for Ruptured Abdominal Aortic Aneurysm One Stent Graft,9632,10082,,9573,,9612,
+RC11D,Endovascular Stent Graft for Ruptured Abdominal Aortic Aneurysm Two Stent Grafts,8196,,,8137,,8275,
+RC11E,Endovascular Stent Graft for Ruptured Abdominal Aortic Aneurysm Three or more Stent Grafts,10490,9027,,10769,405,10231,
+RC12A,Infrarenal or Aorto-Uni-Iliac Endovascular Stent Graft for Non-Ruptured Abdominal Aortic Aneurysm One Branched Stent Graft,8707,8555,321,9734,157,,
+RC12B,Infrarenal or Aorto-Uni-Iliac Endovascular Stent Graft for Non-Ruptured Abdominal Aortic Aneurysm One Fenestrated Stent Graft,15705,15114,871,,,,212
+RC12C,Infrarenal or Aorto-Uni-Iliac Endovascular Stent Graft for Non-Ruptured Abdominal Aortic Aneurysm One Stent Graft,9160,8672,338,11369,204,10314,13598
+RC12D,Infrarenal or Aorto-Uni-Iliac Endovascular Stent Graft for Non-Ruptured Abdominal Aortic Aneurysm Two Stent Grafts,8350,8210,271,10590,287,4408,261
+RC12E,Infrarenal or Aorto-Uni-Iliac Endovascular Stent Graft for Non-Ruptured Abdominal Aortic Aneurysm Three or more Stent Grafts,9815,9489,433,11485,214,10135,
+RC13A,Other Endovascular Stent Graft for Non-Ruptured Abdominal Aortic Aneurysm One Branched Stent Graft,10014,10423,,270,,9163,
+RC13B,Other Endovascular Stent Graft for Non-Ruptured Abdominal Aortic Aneurysm One Fenestrated Stent Graft,17372,17714,,4748,,,
+RC13C,Other Endovascular Stent Graft for Non-Ruptured Abdominal Aortic Aneurysm One Stent Graft,10493,10821,215,8910,313,6794,
+RC13D,Other Endovascular Stent Graft for Non-Ruptured Abdominal Aortic Aneurysm Two Stent Grafts,20005,19539,354,29995,271,13887,5934
+RC13E,Other Endovascular Stent Graft for Non-Ruptured Abdominal Aortic Aneurysm Three or more Stent Grafts,15270,15157,309,12294,499,25585,
+RC14Z,Major Vascular Interventional Radiology Procedures,3127,2350,416,4798,274,1510,1328
+RC15Z,Intermediate Vascular Interventional Radiology Procedures,3946,4838,,4266,262,396,1112
+RC16Z,Minor Vascular Interventional Radiology Procedures,3438,4477,314,5082,284,906,719
+RC31Z,Major Hepatobiliary Interventional Radiology Procedures,2914,2245,278,4883,270,2750,1571
+RC32Z,Intermediate Hepatobiliary Interventional Radiology Procedures,4305,3275,213,5465,259,881,848
+RC33Z,Minor Hepatobiliary Interventional Radiology Procedures,5455,4848,,5138,299,1179,
+RC41Z,Uterine Fibroid Embolisation,1706,1662,420,2311,328,714,844
+RC42Z,Major Obstetric or Gynaecology Interventional Radiology Procedures,5020,2627,,6151,439,283,210
+RC51Z,Major Neurology Interventional Radiology Procedures,6856,6481,382,8268,331,4394,831
+SA01D,Aplastic Anaemia with CC,2044,3631,321,2358,297,575,364
+SA01F,Aplastic Anaemia without CC,1364,2346,343,1960,312,519,423
+SA02D,Coagulation Defect with CC,1604,2637,345,3014,243,516,528
+SA02F,Coagulation Defect without CC,807,833,564,3220,319,606,709
+SA03D,Haemolytic Anaemia with CC,1639,2546,305,2617,287,599,397
+SA03F,Haemolytic Anaemia without CC,753,1514,461,2071,252,491,434
+SA04D,Iron Deficiency Anaemia with CC,1005,1078,262,1653,225,489,372
+SA04F,Iron Deficiency Anaemia without CC,504,862,345,1249,219,481,313
+SA05D,Megaloblastic Anaemia with CC,1540,1911,109,1995,238,506,477
+SA05F,Megaloblastic Anaemia without CC,943,1321,,1609,223,478,375
+SA06D,Myelodysplastic Syndrome with CC,1415,4638,360,3050,252,631,418
+SA06F,Myelodysplastic Syndrome without CC,473,1720,316,2370,226,548,304
+SA07D,Myeloproliferative Disorder with CC,743,2305,251,3506,257,577,354
+SA07F,Myeloproliferative Disorder without CC,383,747,331,1648,265,394,320
+SA08D,Other Haematological or Splenic Disorders with CC,1391,1952,218,2298,253,598,400
+SA08F,Other Haematological or Splenic Disorders without CC,731,1299,215,1768,280,494,306
+SA09D,Other Red Blood Cell Disorders with CC,1209,1320,342,1671,230,515,306
+SA09F,Other Red Blood Cell Disorders without CC,773,1072,238,1420,308,509,343
+SA10E,Sickle Cell Anaemia with Crisis or with CC,1341,2695,318,1936,240,558,658
+SA10F,Sickle Cell Anaemia without CC,606,1528,128,1718,347,493,537
+SA11Z,Thalassaemia,469,814,143,1492,342,557,459
+SA12D,Thrombocytopenia with CC,1277,2126,378,2534,274,539,400
+SA12F,Thrombocytopenia without CC,597,1071,285,2025,281,570,441
+SA13A,Single Plasma Exchange Leucophoresis or Red Cell Exchange with length of stay 2 days or less 19 years and over,473,802,,1110,,596,476
+SA13B,Single Plasma Exchange Leucophoresis or Red Cell Exchange with length of stay 2 days or less 18 years and under,770,1022,,1310,,652,720
+SA14Z,Plasma Exchanges 2 to 9,5655,5038,,8157,291,774,800
+SA15Z,Plasma Exchanges 10 to 19,8234,3878,,14032,477,468,502
+SA16Z,Plasma Exchanges 20 or more,13187,5436,,16312,,3175,626
+SA17D,Malignant Disorders of Lymphatic or Haematological Systems with CC,1412,2543,267,3231,314,865,341
+SA17F,Malignant Disorders of Lymphatic or Haematological Systems without CC,748,1466,347,2709,355,456,341
+SA18Z,Bone Marrow Harvest,1256,3211,277,3244,359,1283,464
+SA19A,Bone Marrow Transplant Autograft 19 years and over,10092,10530,201,10876,,,1641
+SA19B,Bone Marrow Transplant Autograft 18 years and under,45914,45282,2666,11399,,,1264
+SA20A,Bone Marrow Transplant Allogeneic Graft (Sibling) 19 years and over,25792,25291,230,50234,325,,4023
+SA20B,Bone Marrow Transplant Allogeneic Graft (Sibling) 18 years and under,78661,89020,1340,51328,,,4704
+SA21A,Bone Marrow Transplant Allogeneic Graft (Volunteer Unrelated Donor) 19 years and over,33494,32623,631,26352,,,
+SA21B,Bone Marrow Transplant Allogeneic Graft (Volunteer Unrelated Donor) 18 years and under,63503,61435,,83151,,,
+SA22A,Bone Marrow Transplant Allogeneic Graft (Cord Blood) 19 years and over,35620,37698,,2372,,,
+SA22B,Bone Marrow Transplant Allogeneic Graft (Cord Blood) 18 years and under,123216,123149,,123564,,,
+SA23A,Bone Marrow Transplant Allogeneic Graft (Haplo-Identical) 19 years and over,19210,18333,,28865,,,
+SA23B,Bone Marrow Transplant Allogeneic Graft (Haplo-Identical) 18 years and under,149388,174450,,111793,,,
+SA24D,Acute Lymphoblastic Leukaemia with CC,4545,10151,317,9258,355,1469,400
+SA24F,Acute Lymphoblastic Leukaemia without CC,1382,3944,384,4691,363,647,377
+SA25D,Acute Myeloid Leukaemia with CC,4601,9525,258,7003,283,1074,473
+SA25F,Acute Myeloid Leukaemia without CC,1535,4866,322,5337,302,776,383
+SA26A,Peripheral Blood Stem Cell Transplant Autologous 19 years and over,16333,17813,350,11521,332,3199,730
+SA26B,Peripheral Blood Stem Cell Transplant Autologous 18 years and under,34389,35461,426,34382,187,5033,2750
+SA27A,Peripheral Blood Stem Cell Transplant Syngeneic 19 years and over,14475,21777,,16058,,,353
+SA27B,Peripheral Blood Stem Cell Transplant Syngeneic 18 years and under,12551,,,30463,,226,6963
+SA28A,Peripheral Blood Stem Cell Transplant Allogeneic 19 years and over,33482,35328,412,26038,715,4039,208
+SA28B,Peripheral Blood Stem Cell Transplant Allogeneic 18 years and under,74516,71661,1608,90963,345,,1567
+SA30Z,Plasma Cell Disorders,778,2242,316,3770,270,634,374
+SA31Z,Malignant Lymphoma including Hodgkin's and non-Hodgkin's,1768,3077,333,3810,292,629,343
+SA32Z,Chronic Lymphocytic Leukaemia and Related Disorders,845,1906,288,3475,324,622,362
+SA33Z,Diagnostic Bone Marrow Extraction,527,1003,,3474,,862,511
+SA34Z,Peripheral Blood Stem Cell Harvest,1560,4352,437,6645,418,2066,823
+SB01Z,Procure Chemotherapy Drugs for Regimens in Band 1,225,,,,,,
+SB02Z,Procure Chemotherapy Drugs for Regimens in Band 2,316,,,,,,
+SB03Z,Procure Chemotherapy Drugs for Regimens in Band 3,429,,,,,,
+SB04Z,Procure Chemotherapy Drugs for Regimens in Band 4,570,,,,,,
+SB05Z,Procure Chemotherapy Drugs for Regimens in Band 5,592,,,,,,
+SB06Z,Procure Chemotherapy Drugs for Regimens in Band 6,656,,,,,,
+SB07Z,Procure Chemotherapy Drugs for Regimens in Band 7,801,,,,,,
+SB08Z,Procure Chemotherapy Drugs for Regimens in Band 8,1323,,,,,,
+SB09Z,Procure Chemotherapy Drugs for Regimens in Band 9,1208,,,,,,
+SB10Z,Procure Chemotherapy Drugs for Regimens in Band 10,1771,,,,,,
+SB11Z,Deliver Exclusively Oral Chemotherapy,162,,,,,,
+SB12Z,Deliver Simple Parenteral Chemotherapy at First Attendance,200,,,,,,
+SB13Z,Deliver more Complex Parenteral Chemotherapy at First Attendance,249,,,,,,
+SB14Z,Deliver Complex Chemotherapy including Prolonged Infusional Treatment at First Attendance,331,,,,,,
+SB15Z,Deliver Subsequent Elements of a Chemotherapy Cycle,270,,,,,,
+SB16Z,Procure Chemotherapy Drugs for Regimens not on the National List,817,,,,,,
+SB17Z,Deliver Chemotherapy for Regimens not on the National List,226,,,,,,
+SB97Z,Same Day Chemotherapy Admission or Attendance,,,,,,,
+SC21Z,Deliver a Fraction of Treatment on a Superficial or Orthovoltage Machine,125,,,,,,
+SC22Z,Deliver a Fraction of Treatment on a Megavoltage Machine,105,,,,,,
+SC23Z,Deliver a Fraction of Complex Treatment on a Megavoltage Machine,120,,,,,,
+SC24Z,Deliver a Fraction of Radiotherapy on a Megavoltage Machine using General Anaesthetic,480,,,,,,
+SC25Z,Deliver a Fraction of Total Body Irradiation,446,,,,,,
+SC26Z,Deliver a Fraction of Intracavitary Radiotherapy without General Anaesthetic,656,,,,,,
+SC27Z,Deliver a Fraction of Intracavitary Radiotherapy with General Anaesthetic,747,,,,,,
+SC28Z,Deliver a Fraction of Interstitial Radiotherapy,901,,,,,,
+SC29Z,Other Radiotherapy Treatment,354,,,,,,
+SC30Z,Deliver a Fraction of Intraluminal Brachytherapy,1385,,,,,,
+SC31Z,Deliver a Fraction of Adaptive Radiotherapy on a Megavoltage Machine,191,,,,,,
+SC40Z,Preparation for Intensity Modulated Radiation Therapy,1137,,,,,,
+SC41Z,Preparation for Intensity Modulated Radiation Therapy with Technical Support,1929,,,,,,
+SC42Z,Preparation for Total Body Irradiation,2304,,,,,,
+SC43Z,Preparation for Total Body Irradiation with Technical Support,938,,,,,,
+SC44Z,Preparation for Hemi Body Irradiation,315,,,,,,
+SC45Z,Preparation for Simple Radiotherapy with Imaging and Dosimetry,338,,,,,,
+SC46Z,Preparation for Simple Radiotherapy with Imaging and Dosimetry with Technical Support,606,,,,,,
+SC47Z,Preparation for Simple Radiotherapy with Imaging and Simple Calculation,292,,,,,,
+SC48Z,Preparation for Simple Radiotherapy with Imaging and Simple Calculation with Technical Support,513,,,,,,
+SC49Z,Preparation for Superficial Radiotherapy with Simple Calculation,229,,,,,,
+SC50Z,Preparation for Superficial Radiotherapy with Simple Calculation with Technical Support,441,,,,,,
+SC51Z,Preparation for Complex Conformal Radiotherapy,813,,,,,,
+SC52Z,Preparation for Complex Conformal Radiotherapy with Technical Support,974,,,,,,
+SC53Z,Preparation for Intraluminal Brachytherapy,799,,,,,,
+SC54Z,Preparation for Intracavitary Brachytherapy,1057,,,,,,
+SC55Z,Preparation for Interstitial Brachytherapy,1017,,,,,,
+SC56Z,Other External Beam Radiotherapy Preparation,286,,,,,,
+SC57Z,Other Brachytherapy Preparation,1276,,,,,,
+SC97Z,Same Day External Beam Radiotherapy Admission or Attendance,,,,,,,
+SD01A,Inpatient Specialist Palliative Care 19 years and over,340,,,,,,
+SD01B,Inpatient Specialist Palliative Care 18 years and under,411,,,,,,
+SD02A,Inpatient Specialist Palliative Care Same Day 19 years and over,119,,,,,,
+SD02B,Inpatient Specialist Palliative Care Same Day 18 years and under,94,,,,,,
+SD03A,Hospital Specialist Palliative Care Support 19 years and over,113,,,,,,
+SD03B,Hospital Specialist Palliative Care Support 18 years and under,59,,,,,,
+SD04A,Medical Specialist Palliative Care Attendance 19 years and over,154,,,,,,
+SD04B,Medical Specialist Palliative Care Attendance 18 years and under,141,,,,,,
+SD05A,Non-Medical Specialist Palliative Care Attendance 19 years and over,118,,,,,,
+SD05B,Non-Medical Specialist Palliative Care Attendance 18 years and under,106,,,,,,
+VA10A,Multiple Trauma Diagnoses score <=23 with no Interventions,1138,1561,268,1717,256,509,870
+VA10B,Multiple Trauma Diagnoses score 24-32 with no Interventions,1868,2926,268,2519,243,563,686
+VA10C,Multiple Trauma Diagnoses score 33-50 with no Interventions,2611,4314,287,3356,250,609,447
+VA10D,Multiple Trauma Diagnoses score >=51 with no Interventions,4284,6713,335,5026,232,912,
+VA11A,Multiple Trauma Diagnoses score <=23 with Interventions score 1-8,1959,2313,182,3108,308,897,1171
+VA11B,Multiple Trauma Diagnoses score 24-32 with Interventions score 1-8,2529,3047,251,3603,259,754,964
+VA11C,Multiple Trauma Diagnoses score 33-50 with Interventions score 1-8,3706,5073,198,4837,258,914,1550
+VA11D,Multiple Trauma Diagnoses score >=51 with Interventions score 1-8,6419,10526,197,7423,240,1704,194
+VA12A,Multiple Trauma Diagnoses score <=23 with Interventions score 9-18,3902,3000,256,4696,278,1542,1387
+VA12B,Multiple Trauma Diagnoses score 24-32 with Interventions score 9-18,5385,3402,,5872,249,1783,1714
+VA12C,Multiple Trauma Diagnoses score 33-50 with Interventions score 9-18,6648,6695,516,7030,239,2241,2007
+VA12D,Multiple Trauma Diagnoses score >=51 with Interventions score 9-18,9006,11344,,9742,231,2953,
+VA13A,Multiple Trauma Diagnoses score <=23 with Interventions score 19-29,4361,2703,,5189,311,2022,1617
+VA13B,Multiple Trauma Diagnoses score 24-32 with Interventions score 19-29,6223,4993,,6732,312,2227,497
+VA13C,Multiple Trauma Diagnoses score 33-50 with Interventions score 19-29,8078,7693,,8545,266,3682,2005
+VA13D,Multiple Trauma Diagnoses score >=51 with Interventions score 19-29,11315,798,,12726,223,3975,
+VA14A,Multiple Trauma Diagnoses score <=23 with Interventions score 30-44,6754,7696,250,7349,441,1909,1374
+VA14B,Multiple Trauma Diagnoses score 24-32 with Interventions score 30-44,7696,3877,,8427,218,4045,
+VA14C,Multiple Trauma Diagnoses score 33-50 with Interventions score 30-44,9844,1475,,10490,212,4816,
+VA14D,Multiple Trauma Diagnoses score >=51 with Interventions score 30-44,14578,17460,,15910,221,6032,
+VA15A,Multiple Trauma Diagnoses score <=23 with Interventions score >=45,7195,,,7750,204,1410,
+VA15B,Multiple Trauma Diagnoses score 24-32 with Interventions score >=45,13101,,,13798,448,1362,
+VA15C,Multiple Trauma Diagnoses score 33-50 with Interventions score >=45,12926,54638,,13524,320,7668,
+VA15D,Multiple Trauma Diagnoses score >=51 with Interventions score >=45,18581,,,20745,334,8907,
+VB01Z,Emergency Medicine Any Investigation with Category 5 Treatment,192,,,,,,
+VB02Z,Emergency Medicine Category 3 Investigation with Category 4 Treatment,296,,,,,,
+VB03Z,Emergency Medicine Category 3 Investigation with Category 1-3 Treatment,231,,,,,,
+VB04Z,Emergency Medicine Category 2 Investigation with Category 4 Treatment,196,,,,,,
+VB05Z,Emergency Medicine Category 2 Investigation with Category 3 Treatment,168,,,,,,
+VB06Z,Emergency Medicine Category 1 Investigation with Category 3-4 Treatment,95,,,,,,
+VB07Z,Emergency Medicine Category 2 Investigation with Category 2 Treatment,134,,,,,,
+VB08Z,Emergency Medicine Category 2 Investigation with Category 1 Treatment,137,,,,,,
+VB09Z,Emergency Medicine Category 1 Investigation with Category 1-2 Treatment,88,,,,,,
+VB10Z,Emergency Medicine Dental Care,83,,,,,,
+VB11Z,Emergency Medicine No Investigation with No Significant Treatment,64,,,,,,
+VC01Z,Assessment for Rehabilitation Unidisciplinary,133,,,,,,
+VC02Z,Assessment for Rehabilitation Multidisciplinary Non-Specialist,234,,,,,,
+VC03Z,Assessment for Rehabilitation Multidisciplinary Specialist,235,,,,,,
+VC04Z,Rehabilitation for Stroke,313,,,,,,
+VC06Z,Rehabilitation for Brain Injuries,451,,,,,,
+VC08Z,Rehabilitation for Spinal Cord Injuries,306,,,,,,
+VC10Z,Rehabilitation for Pain Syndromes,317,,,,,,
+VC12Z,Rehabilitation for Other Neurological Disorders,316,,,,,,
+VC14Z,Rehabilitation for Amputation of Limb,320,,,,,,
+VC16Z,Rehabilitation for Hip Fracture,262,,,,,,
+VC18Z,Rehabilitation for Joint Replacement,264,,,,,,
+VC20Z,Rehabilitation for Inflammatory Arthritis,268,,,,,,
+VC22Z,Rehabilitation for Non-Inflammatory Arthritis,268,,,,,,
+VC24Z,Rehabilitation for Other Musculoskeletal Disorders,264,,,,,,
+VC26Z,Rehabilitation for Drug and Alcohol Addiction,276,,,,,,
+VC28Z,Rehabilitation for Other Psychiatric Disorders,269,,,,,,
+VC30Z,Rehabilitation for Burns,329,,,,,,
+VC32Z,Rehabilitation following Head and Neck Reconstructive Surgery,289,,,,,,
+VC34Z,Rehabilitation following Other Reconstructive Surgery,270,,,,,,
+VC36Z,Rehabilitation for Other Trauma,270,,,,,,
+VC38Z,Rehabilitation for Acute Myocardial Infarction and Other Cardiac Disorders,286,,,,,,
+VC40Z,Rehabilitation for Respiratory Disorders,241,,,,,,
+VC42Z,Rehabilitation for Other Disorders,259,,,,,,
+WA01W,Manifestations of HIV or AIDS with CC,3310,3526,,5385,,835,431
+WA01Y,Manifestations of HIV or AIDS without CC,1604,3114,,3318,,797,257
+WA02W,Disorders of Immunity without HIV or AIDS with CC,471,1110,407,2111,288,311,432
+WA02Y,Disorders of Immunity without HIV or AIDS without CC,403,790,293,1196,369,365,366
+WA03V,Septicaemia with Major CC,2518,3699,223,2938,227,527,1043
+WA03X,Septicaemia with Intermediate CC,1838,2987,341,2179,240,488,520
+WA03Y,Septicaemia without CC,1242,2108,251,1750,245,454,440
+WA04S,Acute Febrile Illness with length of stay 4 days or less with Major CC,776,986,,1126,408,514,573
+WA04T,Acute Febrile Illness with length of stay 4 days or less with Intermediate CC,696,1130,,1122,,458,376
+WA04U,Acute Febrile Illness with length of stay 4 days or less without CC,582,911,,1116,,417,314
+WA05Q,Pyrexia of Unknown Origin with length of stay 5 days or more with CC,3499,4103,187,3232,265,329,
+WA05R,Pyrexia of Unknown Origin with length of stay 5 days or more without CC,2921,4775,,2729,230,,
+WA06W,Other Viral Illness with CC,1034,3494,398,1671,284,428,443
+WA06Y,Other Viral Illness without CC,613,1409,411,1132,287,405,585
+WA07Z,Complex Infectious Diseases,1122,1423,,2899,176,433,171
+WA08Z,Malaria,904,1293,,1361,307,508,254
+WA09W,Other Non-Viral Infection with CC,2006,3300,377,2428,230,473,535
+WA09Y,Other Non-Viral Infection without CC,1134,2570,163,1755,225,422,555
+WA10Z,Other Infections (Genito-Urinary Medicine),316,1934,259,2097,376,511,556
+WA11V,Poisoning Toxic Environmental and Unspecified Effects with Major CC,1242,2131,310,1647,206,443,417
+WA11X,Poisoning Toxic Environmental and Unspecified Effects with Intermediate CC,530,911,289,913,234,377,431
+WA11Y,Poisoning Toxic Environmental and Unspecified Effects without CC,427,933,345,874,218,363,224
+WA12V,Complications of Procedures with Major CC,3200,3834,305,3692,262,565,674
+WA12X,Complications of Procedures with Intermediate CC,1831,2631,283,2283,272,551,552
+WA12Y,Complications of Procedures without CC,956,1734,293,1505,270,509,440
+WA14A,Procedure Not Carried Out for Medical or Patient Reasons,514,821,319,1725,248,547,384
+WA14B,Procedure Not Carried Out for Other or Unspecified Reasons,506,752,285,1464,245,620,387
+WA15K,Respite Care with length of stay 9 days or more with Major CC,9763,11291,361,7188,326,,
+WA15L,Respite Care with length of stay 9 days or more with Intermediate CC,7116,7557,263,6033,274,,
+WA15M,Respite Care with length of stay 9 days or more without CC,6211,,,6097,374,,
+WA15N,Respite Care with length of stay between 5 and 8 days with Major CC,3283,2311,,3816,,,
+WA15O,Respite Care with length of stay between 5 and 8 days with Intermediate CC,2726,2660,,2849,,,
+WA15P,Respite Care with length of stay between 5 and 8 days without CC,2895,2022,,2904,,,
+WA15V,Respite Care with length of stay 4 days or less,807,1014,,1285,,555,
+WA16W,Shock and Anaphylaxis with CC,604,1053,349,1075,252,396,510
+WA16Y,Shock and Anaphylaxis without CC,435,986,,912,299,362,518
+WA17V,Other Admissions Related to Neoplasms with Major CC,2833,3230,276,3229,236,652,333
+WA17X,Other Admissions Related to Neoplasms with Intermediate CC,1426,1453,327,2233,257,503,353
+WA17Y,Other Admissions Related to Neoplasms without CC,761,1506,205,2097,293,614,388
+WA18V,Admission for Unexplained Symptoms with Major CC,1463,2227,254,1809,220,461,515
+WA18X,Admission for Unexplained Symptoms with Intermediate CC,991,1582,255,1438,223,429,426
+WA18Y,Admission for Unexplained Symptoms without CC,764,1008,193,1113,230,413,1115
+WA19W,Abnormal Findings without Diagnosis with CC,864,1427,260,1450,211,443,377
+WA19Y,Abnormal Findings without Diagnosis without CC,470,864,241,1064,238,417,350
+WA20W,Examination Follow-up or Special Screening with CC,74,1155,338,1178,234,403,406
+WA20Y,Examination Follow-up or Special Screening without CC,48,732,215,964,288,414,380
+WA21W,Other Procedures or Health Care Problems with CC,792,2080,285,2399,304,556,273
+WA21Y,Other Procedures or Health Care Problems without CC,736,1924,238,1650,322,602,351
+WA22V,Other Specified Admissions or Counselling with Major CC,2124,2653,202,2747,221,468,428
+WA22X,Other Specified Admissions or Counselling with Intermediate CC,1561,2807,294,2154,214,428,356
+WA22Y,Other Specified Admissions or Counselling without CC,867,1405,282,1266,208,434,221
+WA23V,Falls without Specific Cause with Major CC,1375,1704,250,1752,222,517,578
+WA23X,Falls without Specific Cause with Intermediate CC,1065,2165,269,1461,231,489,571
+WA23Y,Falls without Specific Cause without CC,697,1385,200,1280,254,395,242
+WA24Z,Procedures on the Lymphatic System,2382,3053,312,4269,353,1160,1056
+XA01Z,Neonatal Critical Care Intensive Care,1117,,,,,,
+XA02Z,Neonatal Critical Care High Dependency,795,,,,,,
+XA03Z,Neonatal Critical Care Special Care without External Carer,480,,,,,,
+XA04Z,Neonatal Critical Care Special Care with External Carer,387,,,,,,
+XA05Z,Neonatal Critical Care Normal Care,440,,,,,,
+XA06Z,Neonatal Critical Care Transportation,1253,,,,,,
+XB01Z,Paediatric Critical Care Intensive Care ECMO/ECLS,4803,,,,,,
+XB02Z,Paediatric Critical Care Intensive Care Advanced Enhanced,2090,,,,,,
+XB03Z,Paediatric Critical Care Intensive Care Advanced,1206,,,,,,
+XB04Z,Paediatric Critical Care Intensive Care Basic Enhanced,2223,,,,,,
+XB05Z,Paediatric Critical Care Intensive Care Basic,1826,,,,,,
+XB06Z,Paediatric Critical Care High Dependency Advanced,1269,,,,,,
+XB07Z,Paediatric Critical Care High Dependency,920,,,,,,
+XB08Z,Paediatric Critical Care Transportation,2687,,,,,,
+XC01Z,Adult Critical Care 6 or more Organs Supported,2000,,,,,,
+XC02Z,Adult Critical Care 5 Organs Supported,1759,,,,,,
+XC03Z,Adult Critical Care 4 Organs Supported,1587,,,,,,
+XC04Z,Adult Critical Care 3 Organs Supported,1410,,,,,,
+XC05Z,Adult Critical Care 2 Organs Supported,1214,,,,,,
+XC06Z,Adult Critical Care 1 Organ Supported,870,,,,,,
+XC07Z,Adult Critical Care 0 Organs Supported,630,,,,,,
+XD01Z,Primary Pulmonary Hypertension Drugs Band 1,305,,,,,,
+XD02Z,Primary Pulmonary Hypertension Drugs Band 2,1085,,,,,,
+XD03Z,Primary Pulmonary Hypertension Drugs Band 3,164,,,,,,
+XD04Z,Primary Pulmonary Hypertension Drugs Band 4,400,,,,,,
+XD05Z,Blood Products Band 1,1169,,,,,,
+XD06Z,Blood Products Band 2,1220,,,,,,
+XD07Z,Fibrinolytic Drugs Band 1,426,,,,,,
+XD08Z,Medical Gases Band 1,924,,,,,,
+XD09Z,Torsion Dystonias and Other Involuntary Movements Drugs Band 1,264,,,,,,
+XD10Z,Amyotrophic Lateral Sclerosis Drugs Band 1,433,,,,,,
+XD11Z,Anti Fungal Drugs Band 1,1351,,,,,,
+XD12Z,Anti Fungal Drugs Band 2,914,,,,,,
+XD13Z,Hepatitis B Treatment Drugs Band 1,634,,,,,,
+XD14Z,Respiratory Syncytial Virus Treatment and Hepatitis C Treatment Drugs Band 1,380,,,,,,
+XD15Z,Respiratory Syncytial Virus Prevention Drugs Band 1,674,,,,,,
+XD16Z,Growth Hormone Receptor Antagonist Drugs Band 1,374,,,,,,
+XD17Z,Growth Hormone Analogue Drugs Band 1,1055,,,,,,
+XD18Z,Bone Metabolism Drugs Band 1,213,,,,,,
+XD19Z,Monoclonal Antibodies Band 1,584,,,,,,
+XD20Z,Monoclonal Antibodies Band 2,1399,,,,,,
+XD21Z,Immunomodulating Drugs Band 1,1488,,,,,,
+XD22Z,Somatostatin Analogues Band 1,565,,,,,,
+XD23Z,Hypoplastic Haemolytic and Renal Anaemia Drugs Band 1,251,,,,,,
+XD24Z,Hypoplastic Haemolytic and Renal Anaemia Drugs Band 2,1570,,,,,,
+XD25Z,Neutropenia Drugs Band 1,224,,,,,,
+XD26Z,Intravenous Nutrition Band 1,302,,,,,,
+XD27Z,Metabolic Disorder Drugs Band 1,575,,,,,,
+XD28Z,Metabolic Disorder Drugs Band 2,732,,,,,,
+XD29Z,Metabolic Disorder Drugs Band 3,2002,,,,,,
+XD30Z,Metabolic Disorder Drugs Band 4,6790,,,,,,
+XD31Z,Cytokine Inhibitor Drugs Band 1,1305,,,,,,
+XD32Z,Hyperuricaemia Drugs Band 1,1064,,,,,,
+XD33Z,Immune Response Drugs Band 1,480,,,,,,
+XD34Z,Immunoglobulins Band 1,1186,,,,,,
+XD37Z,Pulmonary Surfactant Drugs Band 1,778,,,,,,
+XD38Z,Antiretroviral Drugs Band 1,725,,,,,,
+XD39Z,Mucolytic Drugs Band 1,527,,,,,,
+XD40Z,Hypnotic Drugs Band 1,352,,,,,,
+XD41Z,Analgesic Drugs Band 1,884,,,,,,
+XD42Z,Cytomegalovirus Drugs Band 1,805,,,,,,
+XD43Z,Platelet Disorder Drugs Band 1,869,,,,,,
+XD44Z,Protein Tyrosine Kinase Inhibitors Band 1,2391,,,,,,
+XD45Z,Bone Morphogenetic Proteins Band 1,371,,,,,,
+XD46Z,Subfoveal Choroidal Neovascularisation Drugs Band 1,954,,,,,,
+XD47Z,Neurodegenerative Condition Drugs Band 1,131,,,,,,
+XD48Z,Vasopressin Antagonist Drugs Band 1,840,,,,,,
+XD49Z,Allergic Emergency Drugs Band 1,1420,,,,,,
+XD50Z,Myelodysplastic Syndrome Drugs Band 1,882,,,,,,
+XD51Z,Allergen Immunotherapy Drugs Band 1,721,,,,,,
+XD52Z,Poison Management Drugs Band 1,3705,,,,,,
+DAPF,Direct Access Plain Film,30,,,,,,
